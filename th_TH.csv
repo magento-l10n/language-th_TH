@@ -1,592 +1,12 @@
-Previous,ก่อนหน้านี้
-Remove,ลบ
-Footer,ส่วนท้าย
-"Address Book",ข้อมูลที่อยู่จัดส่งสินค้า
-"Account Information",ข้อมูลบัญชี
-"My Account",บัญชีของฉัน
-Settings,การตั้งค่า
-Product,สินค้า
-SKU,รหัสสินค้า
-Price,ราคา
-Quantity,จำนวน
-Total,รวม
-"Update Items and Quantities",อัพเดทสินค้าและจำนวน
-ID,ไอดี
-Action,ดำเนินการ
-Message,ข้อ​ความ
-No,ไม่
-Yes,ใช่
-Save,บันทึก
-Delete,ลบ
-"Save and Continue Edit","บันทึก และแก้ไขต่อไป"
-"General Information",ข้อมูลทั่วไป
-Code,รหัส
-"Sort Order",การเรียงลำดับ
-Attributes,คุณสมบัติ
-None,ไม่มี
-State/Province,จังหวัด
-"Please Select",กรุณาเลือก
-From,จาก
-To,ถึง
-Customers,ลูกค้า
-"Page not found.",ไม่พบหน้านี้
-Inactive,ไม่ใช้งาน
-Active,ใช้งานอยู่
-Type,ชนิด
-"Street Address",ที่อยู่
-City,เมือง
-"Zip/Postal Code",รหัสไปรษณีย์
-Country,ประเทศ
-"Phone Number",เบอร์โทรศัพท์
-Qty,จำนวน
-Back,ย้อนกลับ
-Edit,แก้ไข
-"Add New",เพิ่มใหม่
-"First Name",ชื่อ
-Name,ชื่อ
-Email,อีเมล
-"* Required Fields",ข้อมูลที่จำเป็นต้องกรอก
-Next,ถัดไป
-"Last Name",นามสกุล
-Status,สถานะ
-"Product Name",ชื่อสินค้า
-Search,ค้นหา
-Actions,การดำเนินการ
-View,มุมมอง
-"Add to Cart",เพิ่มในตะกร้าสินค้า
-"Email Template",เทมเพลตอีเมล
-"Email Sender",ผู้ส่งอีเมล
-Date,วันที่
-"CVV Verification","รหัส CVV"
-"Expiration Date",วันหมดอายุ
-"Sorry, but something went wrong","ขออภัย! มีบางอย่างผิดปกติ"
-"Authorize Only","Authorize เท่านั้น"
-"Authorize and Capture","Authorize และ Capture"
-"Credit Card Type",ประเภทบัตรเครดิต
-"Credit Card Number",หมายเลขบัตรเครดิต
-"Card Verification Number",รหัสยืนยันของบัตร
-Enabled,เปิดใช้งาน
-"Credit Card Types",ประเภทบัตรเครดิต
-"Start Date",วันที่เริ่มต้น
-Cancel,ยกเลิก
-Options,ตัวเลือก
-selected,เลือกแล้ว
-Done,เสร็จสิ้น
-options,ตัวเลือก
-"Select All",เลือกทั้งหมด
-Close,ปิด
-Submit,ส่ง
-Reset,รีเซ็ต
-Apply,นำไปใช้
-Export,ส่งออก
-Custom,กำหนดเอง
-"per page",ต่อหน้า
-System,ระบบ
-"Text Field",ฟิลด์ข้อความ
-"Text Area",พื้นที่ข้อความ
-Yes/No,ใช่/ไม่ใช่
-"Multiple Select",เลือกหลายรายการ
-"""Page id should be specified",ควรระบุรหัสหน้า
-"Payment capturing error.","Payment capturing เกิดข้อผิดพลาด"
-"Invalid transaction ID.","Transaction ID ใช้ไม่ได้"
-"Place Order",สั่งสินค้า
-"Test Mode",โหมดทดสอบ:
-"Order by SKU","เรียงตาม รหัสสินค้า"
-"Remove Row",ลบแถว
-"--Please Select--",--กรุณาเลือก--
-"PayPal Account","บัญชี PayPal"
-"Credit Card Information",ข้อมูลบัตรเครดิต
-"What is this?",นี่คืออะไร?
-"Save for later use.",เก็บไว้สำหรับใ้ช้ภายหลัง
-"This payment is not available",การชำระเงินนี้ไม่สามารถใช้งานได้
-MM,เดือน
-YY,ปี
-"Sorry, but something went wrong.","ขออภัย! มีบางอย่างผิดปกติ"
-"Payment ","การชำระเงิน "
-"Merchant ID","ID ร้านค้า"
-Currency,สกุลเงิน
-"Payment Information",ข้อมูลการชำระเงิน
-"Paypal account","บัญชี PayPal"
-Tax,ภาษี
-"Excl. Tax",ไม่รวมภาษี
-"Incl. Tax",รวมภาษี
-Error,ข้อผิดพลาด
-Password,รหัสผ่าน
-"An error occurred while processing your form. Please try again later.","เกิดข้อผิดพลาดขณะดำเนินการ กรุณาลองใหม่อีกครั้งในภายหลัง"
-"Write Us",เขียนข้อความ
-"Jot us a note and we’ll get back to you as quickly as possible.","ส่งโน้ตถึงเรา เราจะตอบกลับโดยเร็วที่สุด"
-"What’s on your mind?",คุณคิดอะไรอยู่?
-"Contact Form",แบบฟอร์มการติดต่อ
-"Contacts Section",ส่วนการติดต่อ
-Contacts,การติดต่อ
-"Contact Us",ติดต่อเรา
-"Enable Contact Us","เปิดใช้งาน การติดต่อเรา"
-"Email Options","อีเมล ตัวเลือก"
-"Send Emails To",ส่งอีเมลถึง
-"Email template chosen based on theme fallback when ""Default"" option is selected.","อีเมลเทมเพลทจะเลือกตาม ค่าตั้งต้นที่ถูกเลือก"
-"-- Please Select --","-- โปรดเลือก-"
-Enable,เปิดใช้งาน
-"Customer Groups",กลุ่มลูกค้า
-"Save as a New Update",บันทึกเป็นการปรับปรุงใหม่
-"Scheduled Changes",กำหนดการ
-General,ทั่วไป
-"Update Name",เปลี่ยนชื่อ
-"Start Time",วันที่เริ่มต้น
-"End Time",เวลาสิ้นสุด
-Description,รายละเอียด
-Thumbnail,รูปขนาดย่อ
-Disabled,ปิดการใช้งาน
-Design,การออกแบบ
-"Update Information",แก้ไขข้อมูล
-"Schedule Update",กำหนดการปรับปรุง
-"End Date",ถึงวันที่
-Content,เนื้อหา
-"New Theme","ธีมใหม่ "
-"Move to Another Update",ย้ายการปรับปรุงอื่น
-"Delete the Update",ลบการปรับปรุง
-Images,รูปภาพ
-"Currently Active",กำลังใช้งานอยู่
-Products,สินค้า
 All,ทั้งหมด
-"Link Text",ข้อความลิงก์
-Update,อัพเดท
-Home,หน้าหลัก
-"All Store Views",มุมมองร้านค้าทั้งหมด
-"Are you sure?",คุณแน่ใจหรือไม่?
-Loading...,กำลังโหลด...
-Orders,รายการสั่งซื้อ
-Shipping,การจัดส่ง
-Configure,ตั้งค่า
-"Shopping Cart",ตระกร้าสินค้า
-" [deleted]",[ลบทิ้งแล้ว]
-Any,อะไรก็ได้
-Subtotal,ผลรวมย่อย
-Discount,ส่วนลด
-"Grand Total",รวมทั้งหมด
-Guest,ผู้ใช้ทั่วไป
-Order,รายการสั่งซื้อ
-"Payment Method:",วิธีการชำระเงิน:
-"Shipping Method:",วิธีการจัดส่ง:
-Customer,ลูกค้า
-"Apply Coupon Code",ใช้รหัสคูปอง
-"Remove Coupon Code",ลบรหัสคูปอง
-"Add New Address",เพิ่มที่อยู่ใหม่
-"Save in address book",บันทึกในสมุดเก็บที่อยู่
-"Please select",กรุณาเลือก
-"Move to Wish List","ย้ายไปที่ รายการที่ชอบ"
-Refresh,รีเฟรช
-Item,รายการ
-Items,รายการ
-"Order #","รายการสั่งซื้อ #"
-"View Order","ดู รายการสั่งซื้อ"
-"Print Order",พิมพ์ใบสั่งซื้อ
-"Add Products",เพิ่มสินค้า
-Dashboard,แดชบอร์ด
-"Invalid Form Key. Please refresh the page.","รหัสฟอร์มไม่ถูกต้อง กรุณารีเฟรชหน้า"
-"Your order number is: %1.","รหัสการสั่งซื้อของคุณคือ %1"
-"What's this?",นี่คืออะไร?
-Wishlist,รายการโปรด
-"1 item in wish list","1 สินค้า ในรายการสิ่งที่ชอบ"
-"%1 items in wish list","%1 สินค้า ในรายการสิ่งที่ชอบ"
-"Product(s) %1 have required options. Each product can only be added individually.","สินค้า %1 มีตัวเลือกที่จำเป็นต้องระบุ สินค้าแต่ละชิ้นสามารถเพิ่มได้ทีละรายการเท่านั้น"
-"Copy to Wish List","คัดลอดไปที่ รายการที่ชอบ"
-"Select all",เลือกทั้งหมด
-"Move Selected to Wish List","ย้ายรายการที่เลือกไปที่ รายการที่ชอบ"
-"Copy Selected to Wish List","คัดลอกรายการที่เลือกไปที่ รายการที่สิ่งชอบ"
-"Add to Wish List","เพิ่มลงใน รายการสิ่งที่ชอบ"
-Import,นำเข้า
-Web,เว็บไซต์
-"Out of stock",สินค้าหมด
-"Sender Name",ชื่อผู้ส่ง
-"Sender Email","Email ผู้ส่ง"
-Store,ร้านค้า
-"Remove All",เอาออกทั้งหมด
-"Proceed to Checkout",เริ่มชำระเงิน
-"Remove item",ลบสินค้า
-"Use Default",ใช้ค่าเริ่มต้น
-Disable,ปิดการใช้งาน
-"Store View",มุมมองร้าน
-Stores,ร้านค้า
-"Allow everything",อนุญาตทุกสิ่ง
-"Magento Admin","Magento แอดมิน"
-"See price before order confirmation.",โปรดตรวจสอบราคาก่อนยืนยันการสั่งซื้อ
-"Click for price",คลิกเพื่อดูราคา
-"All Stores",ร้านค้าทั้งหมด
-"General Settings",การตั้งค่าทั่วไป
-Catalog,แค็ตตาล็อก
-"Current User Identity Verification",ยืนยันตัวตนผู้ใช้ปัจจุบัน
-"Your Password",รหัสผ่านของคุณ
-"The SKU was not found in the catalog.","ไม่พบรหัสสินค้านี้ ในแค็ตตาล็อก"
-"Save Currency Rates",บันทึกอัตราแลกเปลี่ยนสกุลเงิน
-"Manage Currency Rates",จัดการอัตราแลกเปลี่ยนสกุลเงิน
-"Import Service",บริการนำเข้า
-"Save Currency Symbols","บันทึก สัญญลักษณ์ สกุลเงิน"
-"Currency Symbols",สัญลักษณ์สกุลเงิน
-"Use Standard",ใช้มาตรฐาน
-"Click ""Save"" to apply the rates we found.","คลิก ""บันทึก"" เพื่อใช้กับอัตราที่เราพบ"
-"Currency Rates",อัตราแลกเปลี่ยนสกุลเงิน
-"Please correct the input data for ""%1 => %2"" rate.","กรุณาแก้ไขข้อมูลป้อนเข้า เรท ""%1 => %2"""
-"All valid rates have been saved.","บันทึกเรท ทั้งหมดแล้ว"
-"You applied the custom currency symbols.",คุณได้ใช้สัญลักษณ์สกุลเงินแบบกำหนดเองแล้ว
-"You must first configure currency options before being able to see currency rates.","คุณต้องตั้งค่าตัวเลือกสกุลเงินก่อน จึงจะสามารถดูอัตราแลกเปลี่ยนสกุลเงินได้"
-"Old rate:",อัตราเก่า:
-Results,ผลลัพธ์
-Position,ตำแหน่ง
-"Web Site",เว็บไซต์
-"Images (.gif, .jpg, .png)","รูปภาพ (.gif, .jpg, .png)"
-"Unselect All",ยกเลิกการเลือกทั้งหมด
-"Regular Price",ราคาปกติ
-"Add to Compare",เพิ่มลงในการเปรียบเทียบ
-"Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
-"Please select items.",กรุณาเลือกรายการ
-"Add to Wishlist",เพิ่มไปยังรายการโปรด
-"Custom Design",แบบกำหนดเอง
-Advanced,ขั้นสูง
-Frequency,ความถี่
-Rule,"กฎ เงื่อนไข"
-Always,ทุกครั้ง
-"Are you sure you want to do this?",คุณแน่ใจว่าต้องการทำเช่นนี้
-"Default Country","ประเทศ ค่าตั้งต้น"
-"User Name",ชื่อผู้ใช้
-"Force Sign-In",บังคับให้ลงชื่อเข้าใช้
-"User Email",อีเมลผู้ใช้
-"New Password",รหัสผ่านใหม่
-"Password Confirmation",ยืนยันรหัสผ่าน
-"Interface Locale",ภาษาของอินเตอร์เฟซ
-password,รหัสผ่าน
-"Reset Password",รีเซ็ตรหัสผ่าน
-Username,ชื่อผู้ใช้
-"You entered an invalid Secret Key. Please refresh the page.","คุณป้อนรหัสลับไม่ถูกต้อง กรุณารีเฟรชหน้า"
-"Cache Storage Management",การจัดการที่เก็บแคช
-"Flush Magento Cache","ล้างแคชของ Magento"
-"The cache storage may contain additional data. Are you sure that you want to flush it?","ที่จัดเก็บแคชอาจประกอบด้วยข้อมูลอื่นเพิ่มเติม คุณแน่ใจหรือไม่ว่าต้องการล้างมัน?"
-"Flush Cache Storage",ล้างที่เก็บแคช
-Invalidated,วันที่ไม่ถูกต้อง
-Amounts,ยอดเงิน
-Bestsellers,สินค้าที่ขายดี
-"Most Viewed Products",สินค้าที่ดูมากที่สุด
-"New Customers",ลูกค้าใหม่
-"Lifetime Sales",ยอดขายตลอดการใช้งาน
-"Average Order",สั่งซื้อโดยเฉลี่ย
-Average,ค่าเฉลี่ย
-Views,ดู
-Revenue,รายได้
-"Media (.avi, .flv, .swf)","สื่อ (.avi, .flv, .swf)"
-"All Files",แฟ้มทั้งหมด
-"Reset to Default",รีเซ็ตเป็นค่าเริ่มต้น
-"Save Account",บันทึกบัญชี
-"Save Cache Settings",บันทึกการตั้งค่าแคช
-"Images Cache",แคชรูปภาพ
-Clear,ล้างข้อมูล
-"Search Index",ดัชนีการค้นหา
-Rebuild,สร้างใหม่
-"Inventory Stock Status",สถานะสินค้าคงคลัง
-"Rebuild Catalog Index",สร้างดัชนี้แค็ตตาล็อกใหม่
-"All Cache",แคชทั้งหมด
-"Date From",วันที่เริ่มต้น
-"Delete %1 '%2'","ลบ %1 '%2 '"
-"Delete %1","ลบ %1 ' '"
-"Backup Options",ตัวเลือกการสำรองข้อมูล
-"Create DB Backup",สร้างการสำรองข้อมูลใหม่
-"Delete Store","ลบ ร้านค้า"
-"Delete Web Site",ลบเว็บไซต์
-"Save Web Site",บันทึกเว็บไซต์
-"Save Store",บันทึกร้านค้า
-"Save Store View","บันทึก มุมมองร้านค้า"
-"Delete Store View","ลบ มุมมองร้านค้า"
-"Edit Web Site","แก้ไข เว็บไซต์"
-"New Web Site","สร้าง เว็บไซต์ใหม่"
-"Edit Store","แก้ไข ร้านค้า"
-"New Store","สร้าง ร้านค้า ใหม่"
-"Edit Store View","แก้ไข มุมมอง ร้านค้า"
-"New Store View","สร้าง มุมมองร้านค้าใหม่"
-"Store Information",ข้อมูลร้านค้า
-"Root Category",หมวดหมู่หลัก
-"Default Store View",มุมมองร้านค้าเริ่มต้น
-"Store View Information",ข้อมูลมุมมองร้านค้า
-"Web Site Information",ข้อมูลเกี่ยวกับเว็บไซต์
-"Default Store",ร้านค้าเริ่มต้น
-"Set as Default",ตั้งเป็นค่าเริ่มต้น
-"Create Website",สร้างเว็บไซต์
-"Create Store",สร้างร้านค้า
-"Create Store View",สร้างมุมมองร้านค้า
-"Add New Image",เพิ่มรูปภาพใหม่
-"Reset Filter",รีเซ็ตตัวกรอง
-"All Countries",ทุกประเทศ
-"Date selector",เลือกวันที่
-"[ deleted ]","[ ลบ ]"
-"Please correct the column format and try again.","กรุณาแก้ไขรูปแบบของคอลัมน์ และลองอีกครั้ง"
-"Unknown block type",ประเภทบล็อกที่ไม่รู้จัก
-"Please correct the tab configuration and try again. Tab Id should be not empty","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง Id ของแท็บไม่ว่างเปล่า"
-"Please correct the tab configuration and try again.","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง"
-"You have logged out.",คุณได้ออกจากระบบแล้ว
-"The image cache was cleaned.",ล้างแคชภาพแล้ว
-"An error occurred while clearing the image cache.",ข้อผิดพลาดเกิดขึ้นขณะล้างภาพแคชภาพ
-"The JavaScript/CSS cache has been cleaned.","ล้างแคช JavaScript/CSS แล้ว"
-"An error occurred while clearing the JavaScript/CSS cache.","ข้อผิดพลาดเกิดขึ้นขณะล้างแคช JavaScript/CSS"
-"The static files cache has been cleaned.",ล้างแคชไฟล์แล้ว
-"You flushed the cache storage.",คุณล้างที่เก็บข้อมูลแคช
-"The Magento cache storage has been flushed.","ที่เก็บข้อมูลแคชของ Magento ถูกล้างแล้ว"
-"Cache Management",การจัดการแคช
-"Access Denied.",ไม่อนุญาตให้เข้าถึง
-"You need more permissions to do this.",คุณต้องการให้สิทธิ์เพิ่มเติมเพื่อทำสิ่งนี้
-"This store cannot be deleted.",ร้านนี้ไม่สามารถลบ
-"Unable to delete the store. Please try again later.","ไม่สามารถลบร้านค้านี้ กรุณาลองใหม่ภายหลัง"
-"This store view cannot be deleted.",มุมมองร้านค้าไม่สามารถลบได้
-"You deleted the store view.",คุณลบมุมมองร้านค้าแล้ว
-"Unable to delete the store view. Please try again later.","ไม่สามารถลบมุมมองร้านค้านี้ กรุณาลองใหม่ภายหลัง"
-"This website cannot be deleted.",เว็บไซต์นี้ไม่สามารถลบได้
-"You deleted the website.",คุณลบเว็บไซต์แล้ว
-"Unable to delete the website. Please try again later.","ไม่สามารถลบเว็บไซต์นี้ กรุณาลองใหม่ภายหลัง"
-"The website does not exist.",ไม่มีเว็บไซต์
-"The store does not exist",ไม่มีร้านค้า
-"Store view doesn't exist",มุมมองร้านไม่มีอยู่
-"New ","สร้างใหม่ "
-"You saved the website.",คุณบันทึกเว็บไซต์แล้ว
-"The default store cannot be disabled","ร้านค้าเริ่มต้น ไม่สามารถปิดการใช้งานได้"
-"You saved the store view.",คุณบันทึกมุมมองร้านแล้ว
-"You saved the store.",คุณบันทึกร้านค้าแล้ว
-"Something went wrong while saving. Please review the error log.","เกิดข้อผิดพลาดขณะกำลังบันทึก โปรดตรวจสอบ log ข้อผิดพลาด"
-"Last 24 Hours","24 ชั่วโมงล่าสุด"
-"Last 7 Days","7 วันล่าสุด"
-"Current Month",เดือนปัจจุบัน
-"Order #%1","รายการสั่งซื้อ #%1"
-"Sorry, you need permissions to view this content.",คุณไม่ได้รับสิทธิ์ให้ดูเนื้อหานี้
-"Next steps",ขั้นตอนถัดไป
-"If you think this is an error, try signing out and signing in again.","ถ้าคุณคิดว่า นี้เป็นข้อผิดพลาด ลองลงชื่อออก และลงชื่อเข้าใช้อีกครั้ง"
-"Contact a system administrator or store owner to gain permissions.",ติดต่อผู้ดูแลระบบหรือเจ้าของร้านจะได้รับสิทธิ์
-"previous page",หน้าก่อนหน้า
-"Welcome, please sign in","ยินดีต้อนรับ กรุณาเข้าสู่ระบบ"
-"user name",ชื่อผู้ใช้
-"Sign in",ลงชื่อเข้าใช้
-"Select Range:",เลือก
-"No Data Found",ไม่พบข้อมูล
-"Last Orders",คำสั่งซื้อล่าสุด
-"Last Search Terms",การค้นหาล่าสุด
-"Top Search Terms",การค้าหาสูงสุด
-"There are no search keywords.","ไม่พบ keyword การค้นหา"
-"View Statistics For:",ดูสถิติ
-"Sign Out",ออกจากระบบ
-"About the calendar",เกี่ยวกับปฏิทิน
-"Go Today","ไปที่ วันนี้"
-Time,เวลา
-Hour,ชั่วโมง
-"JavaScript/CSS Cache","JavaScript/CSS แคช"
-"Big Image",รูปภาพใหญ่
-"Previous page",หน้าก่อนหน้า
-"of %1","ของ %1"
-"Next page",หน้าถัดไป
-"Export to:",ส่งออก
-Marketing,การตลาด
-"SEO & Search","SEO และ ค้นหา"
-"User Content","เนื้อหา ของผู้ใช้"
-Schedule,กำหนดการ
-"Other Settings",การตั้งค่าอื่นๆ
-"Data Transfer",โอนถ่ายข้อมูล
-"Magento Connect","เนื้อหาของ Magento"
-Tools,เครื่องมือ
-"Web Setup Wizard",ตัวช่วยการตั้งค่าเว็บไซต์
-Services,บริการ
-"Store Email Addresses",อีเมลร้านค้า
-Developer,นักพัฒนา
-"European Union Countries","ประเทศ สหภาพยุโรป"
-Timezone,เขตเวลา
-"First Day of Week",วันแรกของสัปดาห์
-"Store Name",ชื่อร้านค้า
-"Store Phone Number",หมายเลขโทรศัพท์ของร้านค้า
-"Store Hours of Operation",เวลาทำการของร้านค้า
-"ZIP/Postal Code",รหัสไปรษณีย์
-"Street Address Line 2","ที่อยู่ เพิ่มเติม"
-"VAT Number",เลขประจำตัวผู้เสียภาษี
-"Single-Store Mode","โหมด Single-Store"
-"Enable Single-Store Mode","เปิดใช้งาน โหมด Single-Store"
-"This setting will not be taken into account if system has more than one store view.","การตั้งค่านี้จะมีผล เมื่อระบบมีมากกว่า 1 มุมมองร้านค้า"
-"Mail Sending Settings",ตั้งค่าการส่งเมล
-"Disable Email Communications","ปิดใช้งาน Email Communications"
-Admin,ผู้ดูแลระบบ
-Security,ความปลอดภัย
-"Login is Case Sensitive","ชื่อผู่ใช้ ระวังตัวพิมพ์เล็ก พิมพ์ใหญ่"
-"Admin Session Lifetime (seconds)","ระยะเวลาการเข้าใช้งานของผู้ดูแลระบบ (วินาที)"
-"Please enter at least 60 and at most 31536000 (one year).","โปรดระบุตัวเลขอย่างน้อย 60 และ มากที่สุด 31536000 (1 ปี)"
-"Enable Charts","เปิดใช้งาน Charts"
-"Default Pages",หน้าเริ่มต้น
-"Default Web URL","URL ของเว็บเริ่มต้น"
-"Default Theme",ธีมเริ่มต้น
-Pagination,เลขหน้า
-"How many links to display at once.","จำนวนลิ้งก์ ที่แสดงใน 1 ครั้ง"
-"Pagination Frame",เฟรมการแบ่งตัวเลขหน้า
-"Theme Name",ชื่อธีม
-Exclude,ไม่รวม
-Download,ดาวน์โหลด
-"Upload File",อัพโหลดไฟล์
-File,ไฟล์
-"My Cart (1 item)","ตะกร้า (1 ชิ้น)"
-"My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
-"My Cart",ตะกร้า
-"You added %1 to your shopping cart.","คุณเพิ่มสินค้า %1 ชิ้น ลงในตะกร้า"
-"The coupon code ""%1"" is not valid.","รหัสคูปอง ""%1"" ไม่สามารถใช้ได้"
-Checkout,ชำระเงิน
-"Payment Page",หน้าการชำระเงิน
-" item"," รายการ"
-" items"," รายการ"
-Error!,ข้อผิดพลาด!
-"Update Shopping Cart",อัพเดทตะกร้าสินค้า
-"Update Cart","อัพเดท ตะกร้าสินค้า"
-"Edit item parameters","แก้ไข item parameters"
-"You have no items in your shopping cart.",คุณไม่มีสินค้าในตะกร้า
-"Click <a href=""%1"">here</a> to continue shopping.","คลิก <a href=""%1"">ที่นี่</a> เพื่อช้อปปิ้งต่อ"
-"Estimate Tax",ภาษีโดยประมาณ
-"Estimate Shipping and Tax","ค่าจัดส่ง และภาษี โดยประมาณ"
-"Your order # is: <span>%1</span>.","คำสั่งซื้อ #: <span>%1</span>."
-"We'll email you an order confirmation with details and tracking info.","เราจะอีเมลถึงคุณ เพื่อยืนยันการสั่งซื้อและให้รายละเอียดการติดตามการจัดส่งสินค้า"
-"Payment Transaction Failed Reminder",แจ้งเตือนการชำระเงินล้มเหลว
-"Payment Transaction Failed",การชำระเงินล้มเหลว
-Reason,สาเหตุ
-"Checkout Type",รูปแบบการชำระเงิน
-Customer:,ลูกค้า:
-Total:,รวม:
-"Billing Address:",ที่อยู่ในการเรียกเก็บเงิน
-"Shipping Address:",ที่อยู่จัดส่งสินค้า
-"Date & Time:",วันและเวลา
-"Sign In",เข้าสู่ระบบ
-"Email Address",ที่อยู่อีเมล
-"Forgot Your Password?",ลืมรหัสผ่าน?
-"My billing and shipping address are the same","ที่อยู่ใบเสร็จ และที่อยู่จัดส่งสินค้า เป็นที่อยู่เดียวกัน"
-"Estimated Total",ราคารวมโดยประมาณ
-"You can create an account after checkout.","คุณสามารถสร้างบัญชีผู้ใช้ได้ หลังจากทำการชำระเงิน"
-"You already have an account with us. Sign in or continue as guest.","คุณมีบัญชีอยู่กับเราแล้ว ลงชื่อเข้าใช้ หรือดำเนินการต่อ"
-Login,เข้าสู่ระบบ
-"See Details",ดูรายละเอียด
-"Options Details",รายละเอียดตัวเลือก
-"Cart Subtotal",ผลรวมย่อยของรถเข็น
-"No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน
-"You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี"
-"View Details",ดูรายละเอียด
-button_label,ป้ายกำกับปุ่ม
-"Search Query",คำค้นหา
-"Redirect URL","ส่งต่อ URL"
-"Deselect all",ไม่เลือกทั้งหมด
-"%s of %s selected","เลือก %s จาก %s"
-"B2B Features","B2B คุณสมบัติ"
-"This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป
-"Enable Block",เปิดใช้งานบล็อก
-"Block Title",หัวข้อ
-Identifier,ยืนยัน
-"The block will be removed from the update and all scheduled changes will be lost.","บล็อกจะถูกเอาออกจากการปรับปรุง และเปลี่ยนแปลงตามกำหนดการทั้งหมดจะหายไป"
-"Remove CMS page from Update","เอาหน้า CMS จากการ Update"
-"Enable Page",เปิดใช้งานหน้า
-"Page Title",ชื่อหน้า
-Sent,ส่งแล้ว
-Alphanumeric,ตัวอักษรตัวเลข
-"Edit Address",แก้ไขที่อยู่จัดส่งสินค้า
-"Last Update",อัปเดตล่าสุด
-Header,ส่วนหัว
+None,ไม่มี
 "You need more permissions to apply some of the rule updates.",คุณต้องการให้สิทธิ์เพิ่มเติมในการอัพเดท
 "You need more permissions to access website ""%1"".","คุณต้องเพิ่มเติมสิทธิ์การเข้าถึงเว็บไซต์ ""%1""."
-"All Segments",เซ็กเมนต์ทั้งหมด
-"Customer Segment",เซ็กเมนต์ลูกค้า
-Purchased,สั่งซื้อ
-"Review by","รีวิว โดย"
-"Did you mean",คุณหมายถึง
-"Multiple Line",หลายบรรทัด
-"File (attachment)","ไฟล์ (ที่แนบ)"
-"Image File",ไฟล์รูปภาพ
-"Numeric Only",ตัวเลขเท่านั้น
-"Alpha Only",ตัวอักษรเท่านั้น
-"Strip HTML Tags","นำ HTML Tags ออก"
-"The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Attribute code ใช้งานไม่ได้ โปรดใช้ (a-z), (0-9) หรือ underscores (_) เท่านั้น และต้องขึ้นต้นด้วยตัวอักษร"
-"Create Order",สร้างคำสั่งซื้อ
-"Are you sure you want to clear your cart?",คุณแน่ใจหรือไม่ว่าคุณต้องการลบสินค้าจากตะกร้า?
-"Clear my shopping cart",ล้างตะกร้า
-"Add selections to my cart",ใส่สินค้าที่เลือกในรถเข็นของฉัน
-"Select products you want to buy",เลือกสินค้าที่คุณต้องการซื้อ
-"Products in the Comparison List (%1)","สินค้าในรายการเปรียบเทียบ (%1)"
-"Last ordered items (%1)","สินค้าที่สั่งล่าสุด (%1)"
-"Recently Compared Products (%1)","สินค้าที่เปรียบเทียบเมื่อเร็ว ๆ นี้ (%1)"
-"Recently Viewed Products (%1)","สินค้าที่ดูเมื่อเร็ว ๆ นี้ (%1)"
-"Add to Shopping Cart by SKU","เพิ่มลงรถเข็น โดย รหัสสินค้า"
-"Add to Shopping Cart",เพิ่มลงตะกร้าสินค้า
-"Wish List (%1)","รายการที่ชอบ (%1)"
-"Add to Order by SKU","เพิ่มคำสั่งซื้อโดย รหัสสินค้า"
-"Add to Order",เพิ่มคำสั่งซื้อ
-"Add Products to Order",เพิ่มสินค้าไปยังคำสั่งซื้อ
-"Only %1%2%3 left in stock","เหลือเพียง %1%2%3 ในคลังสินค้า"
-"You can buy up to %1 of these per purchase.","คุณสามารถซื้อได้มากกว่า %1ชิ้น"
-"Alert me when this item is available.",แจ้งเตือนเมื่อมีสินค้านี้
-"You do not have access to this.",คุณไม่สามารถเข้าถึงบริการนี้
-"You cannot configure a product.",ไม่สามารถปรับแต่งสินค้าได้
-"You removed the items.",คุณลบสินค้านี้แล้ว
-"You removed the item.",คุณลบสินค้านี้แล้ว
-"You cannot add a product.","คุณไม่สามารถ เพิ่มสินค้าได้"
-"Availability: Out of stock.","สถานะ: สินค้าหมด"
-"You need to choose options for your item.","คุณจำเป็นต้องเลือกตัวเลือก ของสินค้า"
-"Please enter an actual number in the ""Qty"" field.","โปรดระบุตัวเลขในช่อง ""จำนวน"""
-"You cannot upload this file.","คุณไม่สามารถ อัพโหลดไฟล์นี้ได้"
-"You have not entered a product SKU.","คุณไม่ได้ระบุ รหัสสินค้า"
-"Please upload the file in .csv format.","โปรดอัพโหลดไฟล์นามสกุล .csv"
-"Your csv file must include ""sku"" and ""qty"" columns.","ไฟล์ csv ของคุณต้องมีคอลัมน์ ""sku"" และ ""qty"""
-"SKU: ","รหัสสินค้า: "
-"Only <span id=""%1_max_allowed"">%2</span> in stock","มีเพียง <span id=""%1_max_allowed"">%2</span> ในสต็อก"
-Sku,รหัสสินค้า
-"File extensions allowed: .csv","ไฟล์ที่อนุญาต: .csv"
-"Add Row",เพิ่มแถว
-"Add Products By SKU","เพิ่มสินค้า ด้วย รหัสสินค้า"
-"Shopping Cart Management","การจัดการ ตะกร้าสินค้า"
-"View Shopping Cart",ดูตะกร้าสินค้า
-"View and modify Shopping Cart",ดูและปรับปรุงตะกร้าสินค้า
-"Order by SKU Settings","ตั้งค่า การจัดเรียงโดย รหัสสินค้า"
-"Enable Order by SKU on My Account in Storefront","เปิดใช้งาน การสั่งซื้อด้วยรหัสสินค้า บน My Account ใน Storefront"
-"Apply Coupon",ใช้รหัสคูปอง
-"Order by SKU Description","รายละเอียด การจัดเรียงโดย รหัสสินค้า"
-"Order by SKU Template","เทมเพลต การจัดเรียงโดย รหัสสินค้า"
-Database,ฐานข้อมูล
-"Invalid domain name: %1","ชื่อโดเมนไม่ถูกต้อง: %1"
-"Delete Customer",ลบลูกค้า
-Subject,หัวข้อ
-Newsletter,จดหมายข่าว
-Sending,กำลังส่ง...
-Paused,ถูกหยุดชั่วคราว
-"System Backup",สำรองข้อมูลระบบ
-"Database and Media Backup","สำรองข้อมูล ฐานข้อมูลและสื่อ"
-"Database Backup","การสำรองข้อมูล ฐานข้อมูล"
-Backups,การสำรองข้อมูล
-Backup,การสำรองข้อมูล
-failed,ล้มเหลว
-successful,สำเร็จแล้ว
-"You deleted the selected backup(s).","คุณลบ backup(s) ที่เลือกแล้ว"
-"Please correct the password.",โปรดแก้ไขรหัสผ่าน
-"Failed to validate FTP.","ล้มเหลวในการตรวจสอบ FTP"
-"Database and Media",ฐานข้อมูลและสื่อ
-"System (excluding Media)","ระบบ (ไม่รวม สื่อ)"
-"You created the system backup.",คุณสร้างการสำรองข้อมูลระบบแล้ว
-"You created the system backup (excluding media).","คุณสร้างการสำรองข้อมูล (ไม่รวมสื่อ) แล้ว"
-"You created the database and media backup.","คุณสร้างการสำรองข้อมูล ฐานข้อมูลและสื่อ แล้ว"
-"You created the database backup.","คุณสร้างการสำรองข้อมูล ฐานข้อมูล แล้ว"
-"Are you sure you want to continue?",คุณแน่ใจว่าต้องการดำเนินการต่อ?
-"This may take a few moments.",อาจใช้เวลาสักครู่…
-"Be sure your store is in maintenance mode during backup.","โปรดตรวจสอบให้แน่ใจว่าร้านค้าของคุณได้เปลี่ยนเป็น โหมดการบำรุงรักษา ในระหว่างการสำรองข้อมูล"
-"Backup Name",ชื่อการสำรองข้อมูล
-"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","โปรดใช้เฉพาะตัวอักษร (a-z หรือ A-z), ตัวเลข (0-9) หรือ spaces ในฟิลด์นี้"
-"Maintenance mode",โหมดการบำรุงรักษา
-"Please put your store into maintenance mode during backup.","กรุณาเปลี่ยนร้านค้าของคุณเป็น โหมดการบำรุงรักษา ในระหว่างการสำรองข้อมูล"
-"Exclude media folder from backup","ยกเว้นโฟลเดอร์ สื่อ ในการสำรองข้อมูล"
-"Please enter the password to confirm rollback.","โปรดระบุ รหัสผ่าน เพื่อยืนยันการ คืนค่าย้อนกลับ"
-"This action cannot be undone.",การกระทำนี้ไม่สามารถยกเลิกได้
-"User Password",รหัสผ่านของคุณ
-"Please put your store into maintenance mode during rollback processing.","กรุณาเปลี่ยนร้านค้าของคุณเป็น โหมดการบำรุงรักษา ในระหว่างการเรียกข้อมูลย้อนกลับ"
-"Use FTP Connection","ใช้การเชื่อมต่อ FTP"
-"FTP credentials","ข้อมูลรับรอง FTP"
-"FTP Login","เข้าสู่ระบบ FTP"
-"FTP Password","รหัสผ่าน FTP"
-"Create Backup",สร้างการสำรองข้อมูลใหม่
-Rollback,เรียกคืนค่าย้อนกลับ
-"Enable Scheduled Backup","เปิดการใช้งาน การสำรองข้อมูลล่วงหน้า"
-"Maintenance Mode",โหมดการบำรุงรักษา
-"Are you sure you want to delete the selected backup(s)?","คุณแน่ใจว่าต้องการลบ backup(s) ที่เลือกหรือไม่?"
-Size(bytes),ขนาด(bytes)
-Unknown,ไม่ทราบ
+Custom,กำหนดเอง
 "Read Details",อ่านรายละเอียด
 "Mark as Read",ทำเครื่องหมายว่าอ่านแล้ว
+"Are you sure?",คุณแน่ใจหรือไม่?
+Remove,ลบ
 "Messages Inbox",กล่องข้อความ
 "You have %1 new system messages","คุณมี %1 ข้อความใหม่"
 "You have %1 new system message","คุณมี %1 ข้อความใหม่"
@@ -609,26 +29,613 @@ notice,การแจ้งเตือน
 "System Messages:",ข้อความของระบบ:
 "Critical System Messages",ข้อความสำคัญของระบบ
 "System messages",ข้อความของระบบ
+Close,ปิด
 "See All (","ดูทั้งหมด ("
 " unread)"," ยังไม่ได้อ่าน)"
 "Show Toolbar",แสดงแถบเครื่องมือ
 "Show List",แสดงรายการ
+"Last Update",อัปเดตล่าสุด
 "Date Added",วันที่เพิ่ม:
+Message,ข้อ​ความ
+Actions,การดำเนินการ
+"Create Order",สร้างคำสั่งซื้อ
+Back,ย้อนกลับ
+"Add Products",เพิ่มสินค้า
+"Update Items and Quantities",อัพเดทสินค้าและจำนวน
+"Are you sure you want to clear your cart?",คุณแน่ใจหรือไม่ว่าคุณต้องการลบสินค้าจากตะกร้า?
+"Clear my shopping cart",ล้างตะกร้า
+"Add selections to my cart",ใส่สินค้าที่เลือกในรถเข็นของฉัน
+Cancel,ยกเลิก
+"Select products you want to buy",เลือกสินค้าที่คุณต้องการซื้อ
+Product,สินค้า
+Price,ราคา
+Quantity,จำนวน
+"Products in the Comparison List (%1)","สินค้าในรายการเปรียบเทียบ (%1)"
+"Last ordered items (%1)","สินค้าที่สั่งล่าสุด (%1)"
+Products,สินค้า
+ID,ไอดี
+SKU,รหัสสินค้า
+"Recently Compared Products (%1)","สินค้าที่เปรียบเทียบเมื่อเร็ว ๆ นี้ (%1)"
+"Recently Viewed Products (%1)","สินค้าที่ดูเมื่อเร็ว ๆ นี้ (%1)"
+"Add to Shopping Cart by SKU","เพิ่มลงรถเข็น โดย รหัสสินค้า"
+"Add to Shopping Cart",เพิ่มลงตะกร้าสินค้า
+"Wish List (%1)","รายการที่ชอบ (%1)"
+Apply,นำไปใช้
+Configure,ตั้งค่า
+"Add to Order by SKU","เพิ่มคำสั่งซื้อโดย รหัสสินค้า"
+"Add to Order",เพิ่มคำสั่งซื้อ
+"Add Products to Order",เพิ่มสินค้าไปยังคำสั่งซื้อ
+"Remove All",เอาออกทั้งหมด
+"Only %1%2%3 left in stock","เหลือเพียง %1%2%3 ในคลังสินค้า"
+"You can buy up to %1 of these per purchase.","คุณสามารถซื้อได้มากกว่า %1ชิ้น"
+"Alert me when this item is available.",แจ้งเตือนเมื่อมีสินค้านี้
+Customers,ลูกค้า
+"Shopping Cart",ตระกร้าสินค้า
+"You do not have access to this.",คุณไม่สามารถเข้าถึงบริการนี้
+"You cannot configure a product.",ไม่สามารถปรับแต่งสินค้าได้
+"You removed the items.",คุณลบสินค้านี้แล้ว
+"You removed the item.",คุณลบสินค้านี้แล้ว
+"You added %1 to your shopping cart.","คุณเพิ่มสินค้า %1 ชิ้น ลงในตะกร้า"
+"You cannot add a product.","คุณไม่สามารถ เพิ่มสินค้าได้"
+"Order by SKU","เรียงตาม รหัสสินค้า"
+"The SKU was not found in the catalog.","ไม่พบรหัสสินค้านี้ ในแค็ตตาล็อก"
+"Availability: Out of stock.","สถานะ: สินค้าหมด"
+"You need to choose options for your item.","คุณจำเป็นต้องเลือกตัวเลือก ของสินค้า"
+"Please enter an actual number in the ""Qty"" field.","โปรดระบุตัวเลขในช่อง ""จำนวน"""
+"You cannot upload this file.","คุณไม่สามารถ อัพโหลดไฟล์นี้ได้"
+"You have not entered a product SKU.","คุณไม่ได้ระบุ รหัสสินค้า"
+No,ไม่
+"Please upload the file in .csv format.","โปรดอัพโหลดไฟล์นามสกุล .csv"
+"Apply Coupon Code",ใช้รหัสคูปอง
+"Remove Coupon Code",ลบรหัสคูปอง
+"The coupon code ""%1"" is not valid.","รหัสคูปอง ""%1"" ไม่สามารถใช้ได้"
+Qty,จำนวน
+Subtotal,ผลรวมย่อย
+Discount,ส่วนลด
+Action,ดำเนินการ
+"Please select",กรุณาเลือก
+"Move to Wish List","ย้ายไปที่ รายการที่ชอบ"
+"Upload File",อัพโหลดไฟล์
+"Your csv file must include ""sku"" and ""qty"" columns.","ไฟล์ csv ของคุณต้องมีคอลัมน์ ""sku"" และ ""qty"""
+Reset,รีเซ็ต
+"SKU: ","รหัสสินค้า: "
+"Only <span id=""%1_max_allowed"">%2</span> in stock","มีเพียง <span id=""%1_max_allowed"">%2</span> ในสต็อก"
+Item,รายการ
+"See price before order confirmation.",โปรดตรวจสอบราคาก่อนยืนยันการสั่งซื้อ
+"What's this?",นี่คืออะไร?
+"Incl. Tax",รวมภาษี
+"Excl. Tax",ไม่รวมภาษี
+"Edit item parameters","แก้ไข item parameters"
+Edit,แก้ไข
+"Remove item",ลบสินค้า
+"Add to Cart",เพิ่มในตะกร้าสินค้า
+Sku,รหัสสินค้า
+File,ไฟล์
+"File extensions allowed: .csv","ไฟล์ที่อนุญาต: .csv"
+"Add Row",เพิ่มแถว
+"Remove Row",ลบแถว
+"Add Products By SKU","เพิ่มสินค้า ด้วย รหัสสินค้า"
+"Shopping Cart Management","การจัดการ ตะกร้าสินค้า"
+"View Shopping Cart",ดูตะกร้าสินค้า
+"View and modify Shopping Cart",ดูและปรับปรุงตะกร้าสินค้า
+"Order by SKU Settings","ตั้งค่า การจัดเรียงโดย รหัสสินค้า"
+"Enable Order by SKU on My Account in Storefront","เปิดใช้งาน การสั่งซื้อด้วยรหัสสินค้า บน My Account ใน Storefront"
+"Customer Groups",กลุ่มลูกค้า
+"Apply Coupon",ใช้รหัสคูปอง
+"Order by SKU Description","รายละเอียด การจัดเรียงโดย รหัสสินค้า"
+"Link Text",ข้อความลิงก์
+"Order by SKU Template","เทมเพลต การจัดเรียงโดย รหัสสินค้า"
+button_label,ป้ายกำกับปุ่ม
+"Did you mean",คุณหมายถึง
+"Search Query",คำค้นหา
+Store,ร้านค้า
+Results,ผลลัพธ์
+"Redirect URL","ส่งต่อ URL"
+Yes,ใช่
+"--Please Select--",--กรุณาเลือก--
+Done,เสร็จสิ้น
+"View Details",ดูรายละเอียด
+"Start Time",วันที่เริ่มต้น
+Status,สถานะ
+Error,ข้อผิดพลาด
+"Payment capturing error.","Payment capturing เกิดข้อผิดพลาด"
+"Invalid transaction ID.","Transaction ID ใช้ไม่ได้"
+"Authorize Only","Authorize เท่านั้น"
+"Authorize and Capture","Authorize และ Capture"
+"Credit Card Type",ประเภทบัตรเครดิต
+"Please Select",กรุณาเลือก
+"Credit Card Number",หมายเลขบัตรเครดิต
+"Expiration Date",วันหมดอายุ
+"Card Verification Number",รหัสยืนยันของบัตร
+"Place Order",สั่งสินค้า
+Enabled,เปิดใช้งาน
+"Test Mode",โหมดทดสอบ:
+"Credit Card Types",ประเภทบัตรเครดิต
+"Sort Order",การเรียงลำดับ
+options,ตัวเลือก
+"Select all",เลือกทั้งหมด
+"Deselect all",ไม่เลือกทั้งหมด
+"%s of %s selected","เลือก %s จาก %s"
+"B2B Features","B2B คุณสมบัติ"
+"Invalid Form Key. Please refresh the page.","รหัสฟอร์มไม่ถูกต้อง กรุณารีเฟรชหน้า"
+"You entered an invalid Secret Key. Please refresh the page.","คุณป้อนรหัสลับไม่ถูกต้อง กรุณารีเฟรชหน้า"
+"Cache Storage Management",การจัดการที่เก็บแคช
+"Flush Magento Cache","ล้างแคชของ Magento"
+"The cache storage may contain additional data. Are you sure that you want to flush it?","ที่จัดเก็บแคชอาจประกอบด้วยข้อมูลอื่นเพิ่มเติม คุณแน่ใจหรือไม่ว่าต้องการล้างมัน?"
+"Flush Cache Storage",ล้างที่เก็บแคช
+Invalidated,วันที่ไม่ถูกต้อง
+Orders,รายการสั่งซื้อ
+Amounts,ยอดเงิน
+Bestsellers,สินค้าที่ขายดี
+"Most Viewed Products",สินค้าที่ดูมากที่สุด
+"New Customers",ลูกค้าใหม่
+Customer,ลูกค้า
+Guest,ผู้ใช้ทั่วไป
+Items,รายการ
+Total,รวม
+"Lifetime Sales",ยอดขายตลอดการใช้งาน
+"Average Order",สั่งซื้อโดยเฉลี่ย
+Average,ค่าเฉลี่ย
+Views,ดู
+Revenue,รายได้
+Tax,ภาษี
+Shipping,การจัดส่ง
+"Images (.gif, .jpg, .png)","รูปภาพ (.gif, .jpg, .png)"
+"Media (.avi, .flv, .swf)","สื่อ (.avi, .flv, .swf)"
+"All Files",แฟ้มทั้งหมด
+"Reset to Default",รีเซ็ตเป็นค่าเริ่มต้น
+"All Store Views",มุมมองร้านค้าทั้งหมด
+"What is this?",นี่คืออะไร?
+"Save Account",บันทึกบัญชี
+"My Account",บัญชีของฉัน
+"Account Information",ข้อมูลบัญชี
+"User Name",ชื่อผู้ใช้
+"First Name",ชื่อ
+"Last Name",นามสกุล
+Email,อีเมล
+"User Email",อีเมลผู้ใช้
+"New Password",รหัสผ่านใหม่
+"Password Confirmation",ยืนยันรหัสผ่าน
+"Interface Locale",ภาษาของอินเตอร์เฟซ
+"Current User Identity Verification",ยืนยันตัวตนผู้ใช้ปัจจุบัน
+"Your Password",รหัสผ่านของคุณ
+"Save Cache Settings",บันทึกการตั้งค่าแคช
+Refresh,รีเฟรช
+"Images Cache",แคชรูปภาพ
+Clear,ล้างข้อมูล
+"Search Index",ดัชนีการค้นหา
+Rebuild,สร้างใหม่
+"Inventory Stock Status",สถานะสินค้าคงคลัง
+"Rebuild Catalog Index",สร้างดัชนี้แค็ตตาล็อกใหม่
+"All Cache",แคชทั้งหมด
+Disable,ปิดการใช้งาน
+Enable,เปิดใช้งาน
+Delete,ลบ
+Save,บันทึก
+"General Settings",การตั้งค่าทั่วไป
+"-- Please Select --","-- โปรดเลือก-"
+"Custom Design",แบบกำหนดเอง
+"Date From",วันที่เริ่มต้น
+General,ทั่วไป
+"Delete %1 '%2'","ลบ %1 '%2 '"
+"Delete %1","ลบ %1 ' '"
+"Backup Options",ตัวเลือกการสำรองข้อมูล
+"Create DB Backup",สร้างการสำรองข้อมูลใหม่
+"Delete Store","ลบ ร้านค้า"
+"Delete Web Site",ลบเว็บไซต์
+"Save Web Site",บันทึกเว็บไซต์
+"Save Store",บันทึกร้านค้า
+"Save Store View","บันทึก มุมมองร้านค้า"
+"Delete Store View","ลบ มุมมองร้านค้า"
+"Edit Web Site","แก้ไข เว็บไซต์"
+"New Web Site","สร้าง เว็บไซต์ใหม่"
+"Edit Store","แก้ไข ร้านค้า"
+"New Store","สร้าง ร้านค้า ใหม่"
+"Edit Store View","แก้ไข มุมมอง ร้านค้า"
+"New Store View","สร้าง มุมมองร้านค้าใหม่"
+"Store Information",ข้อมูลร้านค้า
+"Web Site",เว็บไซต์
+Name,ชื่อ
+Code,รหัส
+"Root Category",หมวดหมู่หลัก
+"Default Store View",มุมมองร้านค้าเริ่มต้น
+"Store View Information",ข้อมูลมุมมองร้านค้า
+Disabled,ปิดการใช้งาน
+"Web Site Information",ข้อมูลเกี่ยวกับเว็บไซต์
+"Default Store",ร้านค้าเริ่มต้น
+"Set as Default",ตั้งเป็นค่าเริ่มต้น
+Stores,ร้านค้า
+"Create Website",สร้างเว็บไซต์
+"Create Store",สร้างร้านค้า
+"Create Store View",สร้างมุมมองร้านค้า
+Home,หน้าหลัก
+"Are you sure you want to do this?",คุณแน่ใจว่าต้องการทำเช่นนี้
+"Add New Image",เพิ่มรูปภาพใหม่
+"Reset Filter",รีเซ็ตตัวกรอง
+Search,ค้นหา
+Any,อะไรก็ได้
+"All Countries",ทุกประเทศ
+From,จาก
+To,ถึง
+"Date selector",เลือกวันที่
+"[ deleted ]","[ ลบ ]"
+"Select All",เลือกทั้งหมด
+" [deleted]",[ลบทิ้งแล้ว]
+"Add New",เพิ่มใหม่
+Export,ส่งออก
+"Please correct the column format and try again.","กรุณาแก้ไขรูปแบบของคอลัมน์ และลองอีกครั้ง"
+"Please select items.",กรุณาเลือกรายการ
+Submit,ส่ง
+"Unknown block type",ประเภทบล็อกที่ไม่รู้จัก
+"Please correct the tab configuration and try again. Tab Id should be not empty","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง Id ของแท็บไม่ว่างเปล่า"
+"Please correct the tab configuration and try again.","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง"
+"You have logged out.",คุณได้ออกจากระบบแล้ว
+"The image cache was cleaned.",ล้างแคชภาพแล้ว
+"An error occurred while clearing the image cache.",ข้อผิดพลาดเกิดขึ้นขณะล้างภาพแคชภาพ
+"The JavaScript/CSS cache has been cleaned.","ล้างแคช JavaScript/CSS แล้ว"
+"An error occurred while clearing the JavaScript/CSS cache.","ข้อผิดพลาดเกิดขึ้นขณะล้างแคช JavaScript/CSS"
+"The static files cache has been cleaned.",ล้างแคชไฟล์แล้ว
+"You flushed the cache storage.",คุณล้างที่เก็บข้อมูลแคช
+"The Magento cache storage has been flushed.","ที่เก็บข้อมูลแคชของ Magento ถูกล้างแล้ว"
+"Cache Management",การจัดการแคช
+Dashboard,แดชบอร์ด
+"Access Denied.",ไม่อนุญาตให้เข้าถึง
+"You need more permissions to do this.",คุณต้องการให้สิทธิ์เพิ่มเติมเพื่อทำสิ่งนี้
+System,ระบบ
+"This store cannot be deleted.",ร้านนี้ไม่สามารถลบ
+"Unable to delete the store. Please try again later.","ไม่สามารถลบร้านค้านี้ กรุณาลองใหม่ภายหลัง"
+"This store view cannot be deleted.",มุมมองร้านค้าไม่สามารถลบได้
+"Store View",มุมมองร้าน
+"You deleted the store view.",คุณลบมุมมองร้านค้าแล้ว
+"Unable to delete the store view. Please try again later.","ไม่สามารถลบมุมมองร้านค้านี้ กรุณาลองใหม่ภายหลัง"
+"This website cannot be deleted.",เว็บไซต์นี้ไม่สามารถลบได้
+"You deleted the website.",คุณลบเว็บไซต์แล้ว
+"Unable to delete the website. Please try again later.","ไม่สามารถลบเว็บไซต์นี้ กรุณาลองใหม่ภายหลัง"
+"The website does not exist.",ไม่มีเว็บไซต์
+"The store does not exist",ไม่มีร้านค้า
+"Store view doesn't exist",มุมมองร้านไม่มีอยู่
+"New ","สร้างใหม่ "
+"All Stores",ร้านค้าทั้งหมด
+"You saved the website.",คุณบันทึกเว็บไซต์แล้ว
+"The default store cannot be disabled","ร้านค้าเริ่มต้น ไม่สามารถปิดการใช้งานได้"
+"You saved the store view.",คุณบันทึกมุมมองร้านแล้ว
+"You saved the store.",คุณบันทึกร้านค้าแล้ว
+"Something went wrong while saving. Please review the error log.","เกิดข้อผิดพลาดขณะกำลังบันทึก โปรดตรวจสอบ log ข้อผิดพลาด"
+"Last 24 Hours","24 ชั่วโมงล่าสุด"
+"Last 7 Days","7 วันล่าสุด"
+"Current Month",เดือนปัจจุบัน
+Order,รายการสั่งซื้อ
+"Order #%1","รายการสั่งซื้อ #%1"
+"Sorry, you need permissions to view this content.",คุณไม่ได้รับสิทธิ์ให้ดูเนื้อหานี้
+"Next steps",ขั้นตอนถัดไป
+"If you think this is an error, try signing out and signing in again.","ถ้าคุณคิดว่า นี้เป็นข้อผิดพลาด ลองลงชื่อออก และลงชื่อเข้าใช้อีกครั้ง"
+"Contact a system administrator or store owner to gain permissions.",ติดต่อผู้ดูแลระบบหรือเจ้าของร้านจะได้รับสิทธิ์
+"previous page",หน้าก่อนหน้า
+"Welcome, please sign in","ยินดีต้อนรับ กรุณาเข้าสู่ระบบ"
+Username,ชื่อผู้ใช้
+"user name",ชื่อผู้ใช้
+Password,รหัสผ่าน
+password,รหัสผ่าน
+"Sign in",ลงชื่อเข้าใช้
+"Select Range:",เลือก
+"No Data Found",ไม่พบข้อมูล
+"Last Orders",คำสั่งซื้อล่าสุด
+"Last Search Terms",การค้นหาล่าสุด
+"Top Search Terms",การค้าหาสูงสุด
+"There are no search keywords.","ไม่พบ keyword การค้นหา"
+"View Statistics For:",ดูสถิติ
+"Sign Out",ออกจากระบบ
+"About the calendar",เกี่ยวกับปฏิทิน
+"Go Today","ไปที่ วันนี้"
+Previous,ก่อนหน้านี้
+Next,ถัดไป
+Time,เวลา
+Hour,ชั่วโมง
+Catalog,แค็ตตาล็อก
+"JavaScript/CSS Cache","JavaScript/CSS แคช"
+Images,รูปภาพ
+"Big Image",รูปภาพใหญ่
+Thumbnail,รูปขนาดย่อ
+selected,เลือกแล้ว
+"per page",ต่อหน้า
+"Previous page",หน้าก่อนหน้า
+"of %1","ของ %1"
+"Next page",หน้าถัดไป
+"Export to:",ส่งออก
+"Unselect All",ยกเลิกการเลือกทั้งหมด
+Loading...,กำลังโหลด...
+"Allow everything",อนุญาตทุกสิ่ง
+"Magento Admin","Magento แอดมิน"
+Marketing,การตลาด
+"SEO & Search","SEO และ ค้นหา"
+"User Content","เนื้อหา ของผู้ใช้"
+Content,เนื้อหา
+Design,การออกแบบ
+Schedule,กำหนดการ
+Settings,การตั้งค่า
+Attributes,คุณสมบัติ
+"Other Settings",การตั้งค่าอื่นๆ
+"Data Transfer",โอนถ่ายข้อมูล
+"Magento Connect","เนื้อหาของ Magento"
+Tools,เครื่องมือ
+"Web Setup Wizard",ตัวช่วยการตั้งค่าเว็บไซต์
+Currency,สกุลเงิน
+Services,บริการ
+Advanced,ขั้นสูง
+"Store Email Addresses",อีเมลร้านค้า
+"Sender Email","Email ผู้ส่ง"
+"Sender Name",ชื่อผู้ส่ง
+Developer,นักพัฒนา
+"Default Country","ประเทศ ค่าตั้งต้น"
+"European Union Countries","ประเทศ สหภาพยุโรป"
+Timezone,เขตเวลา
+"First Day of Week",วันแรกของสัปดาห์
+"Store Name",ชื่อร้านค้า
+"Store Phone Number",หมายเลขโทรศัพท์ของร้านค้า
+"Store Hours of Operation",เวลาทำการของร้านค้า
+Country,ประเทศ
+"ZIP/Postal Code",รหัสไปรษณีย์
+City,เมือง
+"Street Address",ที่อยู่
+"Street Address Line 2","ที่อยู่ เพิ่มเติม"
+"VAT Number",เลขประจำตัวผู้เสียภาษี
+"Single-Store Mode","โหมด Single-Store"
+"Enable Single-Store Mode","เปิดใช้งาน โหมด Single-Store"
+"This setting will not be taken into account if system has more than one store view.","การตั้งค่านี้จะมีผล เมื่อระบบมีมากกว่า 1 มุมมองร้านค้า"
+"Mail Sending Settings",ตั้งค่าการส่งเมล
+"Disable Email Communications","ปิดใช้งาน Email Communications"
+Admin,ผู้ดูแลระบบ
+"Email template chosen based on theme fallback when ""Default"" option is selected.","อีเมลเทมเพลทจะเลือกตาม ค่าตั้งต้นที่ถูกเลือก"
+Security,ความปลอดภัย
+"Login is Case Sensitive","ชื่อผู่ใช้ ระวังตัวพิมพ์เล็ก พิมพ์ใหญ่"
+"Admin Session Lifetime (seconds)","ระยะเวลาการเข้าใช้งานของผู้ดูแลระบบ (วินาที)"
+"Please enter at least 60 and at most 31536000 (one year).","โปรดระบุตัวเลขอย่างน้อย 60 และ มากที่สุด 31536000 (1 ปี)"
+"Enable Charts","เปิดใช้งาน Charts"
+Web,เว็บไซต์
+"Default Pages",หน้าเริ่มต้น
+"Default Web URL","URL ของเว็บเริ่มต้น"
+Description,รายละเอียด
+"Default Theme",ธีมเริ่มต้น
+Pagination,เลขหน้า
+"How many links to display at once.","จำนวนลิ้งก์ ที่แสดงใน 1 ครั้ง"
+"Pagination Frame",เฟรมการแบ่งตัวเลขหน้า
+"Theme Name",ชื่อธีม
+"Page not found.",ไม่พบหน้านี้
+"System Backup",สำรองข้อมูลระบบ
+"Database and Media Backup","สำรองข้อมูล ฐานข้อมูลและสื่อ"
+"Database Backup","การสำรองข้อมูล ฐานข้อมูล"
+Backups,การสำรองข้อมูล
+Backup,การสำรองข้อมูล
+failed,ล้มเหลว
+successful,สำเร็จแล้ว
+"You deleted the selected backup(s).","คุณลบ backup(s) ที่เลือกแล้ว"
+"Please correct the password.",โปรดแก้ไขรหัสผ่าน
+"Failed to validate FTP.","ล้มเหลวในการตรวจสอบ FTP"
+Database,ฐานข้อมูล
+"Database and Media",ฐานข้อมูลและสื่อ
+"System (excluding Media)","ระบบ (ไม่รวม สื่อ)"
+"You created the system backup.",คุณสร้างการสำรองข้อมูลระบบแล้ว
+"You created the system backup (excluding media).","คุณสร้างการสำรองข้อมูล (ไม่รวมสื่อ) แล้ว"
+"You created the database and media backup.","คุณสร้างการสำรองข้อมูล ฐานข้อมูลและสื่อ แล้ว"
+"You created the database backup.","คุณสร้างการสำรองข้อมูล ฐานข้อมูล แล้ว"
+"Are you sure you want to continue?",คุณแน่ใจว่าต้องการดำเนินการต่อ?
+"This may take a few moments.",อาจใช้เวลาสักครู่…
+"Be sure your store is in maintenance mode during backup.","โปรดตรวจสอบให้แน่ใจว่าร้านค้าของคุณได้เปลี่ยนเป็น โหมดการบำรุงรักษา ในระหว่างการสำรองข้อมูล"
+"Backup Name",ชื่อการสำรองข้อมูล
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","โปรดใช้เฉพาะตัวอักษร (a-z หรือ A-z), ตัวเลข (0-9) หรือ spaces ในฟิลด์นี้"
+"Maintenance mode",โหมดการบำรุงรักษา
+"Please put your store into maintenance mode during backup.","กรุณาเปลี่ยนร้านค้าของคุณเป็น โหมดการบำรุงรักษา ในระหว่างการสำรองข้อมูล"
+Exclude,ไม่รวม
+"Exclude media folder from backup","ยกเว้นโฟลเดอร์ สื่อ ในการสำรองข้อมูล"
+"Please enter the password to confirm rollback.","โปรดระบุ รหัสผ่าน เพื่อยืนยันการ คืนค่าย้อนกลับ"
+"This action cannot be undone.",การกระทำนี้ไม่สามารถยกเลิกได้
+"User Password",รหัสผ่านของคุณ
+"Please put your store into maintenance mode during rollback processing.","กรุณาเปลี่ยนร้านค้าของคุณเป็น โหมดการบำรุงรักษา ในระหว่างการเรียกข้อมูลย้อนกลับ"
+"Use FTP Connection","ใช้การเชื่อมต่อ FTP"
+"FTP credentials","ข้อมูลรับรอง FTP"
+"FTP Login","เข้าสู่ระบบ FTP"
+"FTP Password","รหัสผ่าน FTP"
+"Create Backup",สร้างการสำรองข้อมูลใหม่
+Rollback,เรียกคืนค่าย้อนกลับ
+"Enable Scheduled Backup","เปิดการใช้งาน การสำรองข้อมูลล่วงหน้า"
+Frequency,ความถี่
+"Maintenance Mode",โหมดการบำรุงรักษา
+"Are you sure you want to delete the selected backup(s)?","คุณแน่ใจว่าต้องการลบ backup(s) ที่เลือกหรือไม่?"
+Size(bytes),ขนาด(bytes)
+Type,ชนิด
+Download,ดาวน์โหลด
+"Save and Continue Edit","บันทึก และแก้ไขต่อไป"
 "Default Content",เนื้อหาตั้งต้น
 "No Default Content",ไม่มีเนื้อหาตั้งต้น
+"Use Default",ใช้ค่าเริ่มต้น
+Rule,"กฎ เงื่อนไข"
+"Start Date",วันที่เริ่มต้น
+"End Date",ถึงวันที่
+Active,ใช้งานอยู่
+Inactive,ไม่ใช้งาน
+Position,ตำแหน่ง
 "-- None --",-ไม่มี-
 "Content Area",พื้นที่เนื้อหา
+Footer,ส่วนท้าย
+Header,ส่วนหัว
 "Left Column",คอลัมน์ซ้าย
 "Right Column",คอลัมน์ด้านขวา
+"General Information",ข้อมูลทั่วไป
+"All Segments",เซ็กเมนต์ทั้งหมด
+"Customer Segment",เซ็กเมนต์ลูกค้า
+"Sorry, but something went wrong","ขออภัย! มีบางอย่างผิดปกติ"
+"PayPal Account","บัญชี PayPal"
+"Credit Card Information",ข้อมูลบัตรเครดิต
+"Save for later use.",เก็บไว้สำหรับใ้ช้ภายหลัง
+"This payment is not available",การชำระเงินนี้ไม่สามารถใช้งานได้
+MM,เดือน
+YY,ปี
+"Sorry, but something went wrong.","ขออภัย! มีบางอย่างผิดปกติ"
+"Payment ","การชำระเงิน "
+"Merchant ID","ID ร้านค้า"
+"CVV Verification","รหัส CVV"
+"Payment Information",ข้อมูลการชำระเงิน
+"* Required Fields",ข้อมูลที่จำเป็นต้องกรอก
+State/Province,จังหวัด
+"Zip/Postal Code",รหัสไปรษณีย์
+"Paypal account","บัญชี PayPal"
+"Multiple Select",เลือกหลายรายการ
+"Regular Price",ราคาปกติ
+"Out of stock",สินค้าหมด
+"Product Name",ชื่อสินค้า
+Always,ทุกครั้ง
+Import,นำเข้า
+"Click for price",คลิกเพื่อดูราคา
+"Add to Wish List","เพิ่มลงใน รายการสิ่งที่ชอบ"
+"Add to Compare",เพิ่มลงในการเปรียบเทียบ
+"Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
+"Add to Wishlist",เพิ่มไปยังรายการโปรด
+Priority,ระดับความสำคัญ
+"Scheduled Changes",กำหนดการ
+"Update Information",แก้ไขข้อมูล
+"Remove Catalog Price Rule from Update","ลบ Catalog Price Rule จากการอัพเดท"
+"Schedule Update",กำหนดการปรับปรุง
+"Update Name",เปลี่ยนชื่อ
+"Rule Information",คำอธิบายเงื่อนไข
+"Rule Name",ชื่อเงื่อนไข
+Websites,เว็บไซต์
+Conditions,เงื่อนไข
+"Discount Amount",จำนวนส่วนลด
+"Save as a New Update",บันทึกเป็นการปรับปรุงใหม่
+"Move to Another Update",ย้ายการปรับปรุงอื่น
+"Delete the Update",ลบการปรับปรุง
+"End Time",เวลาสิ้นสุด
+"New Theme","ธีมใหม่ "
+"Currently Active",กำลังใช้งานอยู่
+"My Cart (1 item)","ตะกร้า (1 ชิ้น)"
+"My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
+"My Cart",ตะกร้า
+Checkout,ชำระเงิน
+"Payment Page",หน้าการชำระเงิน
+" item"," รายการ"
+" items"," รายการ"
+Error!,ข้อผิดพลาด!
+"Update Shopping Cart",อัพเดทตะกร้าสินค้า
+"Update Cart","อัพเดท ตะกร้าสินค้า"
+"You have no items in your shopping cart.",คุณไม่มีสินค้าในตะกร้า
+"Click <a href=""%1"">here</a> to continue shopping.","คลิก <a href=""%1"">ที่นี่</a> เพื่อช้อปปิ้งต่อ"
+"Estimate Tax",ภาษีโดยประมาณ
+"Estimate Shipping and Tax","ค่าจัดส่ง และภาษี โดยประมาณ"
+"Order #","รายการสั่งซื้อ #"
+"Proceed to Checkout",เริ่มชำระเงิน
+"Your order number is: %1.","รหัสการสั่งซื้อของคุณคือ %1"
+"Your order # is: <span>%1</span>.","คำสั่งซื้อ #: <span>%1</span>."
+"We'll email you an order confirmation with details and tracking info.","เราจะอีเมลถึงคุณ เพื่อยืนยันการสั่งซื้อและให้รายละเอียดการติดตามการจัดส่งสินค้า"
+"Payment Transaction Failed Reminder",แจ้งเตือนการชำระเงินล้มเหลว
+"Payment Transaction Failed",การชำระเงินล้มเหลว
+Reason,สาเหตุ
+"Checkout Type",รูปแบบการชำระเงิน
+Customer:,ลูกค้า:
+Total:,รวม:
+"Billing Address:",ที่อยู่ในการเรียกเก็บเงิน
+"Shipping Address:",ที่อยู่จัดส่งสินค้า
+"Shipping Method:",วิธีการจัดส่ง:
+"Payment Method:",วิธีการชำระเงิน:
+"Date & Time:",วันและเวลา
+"Sign In",เข้าสู่ระบบ
+"Email Address",ที่อยู่อีเมล
+"Forgot Your Password?",ลืมรหัสผ่าน?
+"My billing and shipping address are the same","ที่อยู่ใบเสร็จ และที่อยู่จัดส่งสินค้า เป็นที่อยู่เดียวกัน"
+Update,อัพเดท
+"Save in address book",บันทึกในสมุดเก็บที่อยู่
+"Estimated Total",ราคารวมโดยประมาณ
+"You can create an account after checkout.","คุณสามารถสร้างบัญชีผู้ใช้ได้ หลังจากทำการชำระเงิน"
+"You already have an account with us. Sign in or continue as guest.","คุณมีบัญชีอยู่กับเราแล้ว ลงชื่อเข้าใช้ หรือดำเนินการต่อ"
+Login,เข้าสู่ระบบ
+"See Details",ดูรายละเอียด
+"Options Details",รายละเอียดตัวเลือก
+"Cart Subtotal",ผลรวมย่อยของรถเข็น
+"No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน
+"You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี"
+Identifier,ยืนยัน
+"This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป
+"Page Title",ชื่อหน้า
+View,มุมมอง
+"Enable Block",เปิดใช้งานบล็อก
+"Block Title",หัวข้อ
+"Enable Page",เปิดใช้งานหน้า
+"""Page id should be specified",ควรระบุรหัสหน้า
+"The block will be removed from the update and all scheduled changes will be lost.","บล็อกจะถูกเอาออกจากการปรับปรุง และเปลี่ยนแปลงตามกำหนดการทั้งหมดจะหายไป"
+"Remove CMS page from Update","เอาหน้า CMS จากการ Update"
+"Delete Customer",ลบลูกค้า
+"Phone Number",เบอร์โทรศัพท์
+Contacts,การติดต่อ
+Purchased,สั่งซื้อ
+Date,วันที่
+Options,ตัวเลือก
+"An error occurred while processing your form. Please try again later.","เกิดข้อผิดพลาดขณะดำเนินการ กรุณาลองใหม่อีกครั้งในภายหลัง"
+"Write Us",เขียนข้อความ
+"Jot us a note and we’ll get back to you as quickly as possible.","ส่งโน้ตถึงเรา เราจะตอบกลับโดยเร็วที่สุด"
+"What’s on your mind?",คุณคิดอะไรอยู่?
+"Contact Form",แบบฟอร์มการติดต่อ
+"Contacts Section",ส่วนการติดต่อ
+"Contact Us",ติดต่อเรา
+"Enable Contact Us","เปิดใช้งาน การติดต่อเรา"
+"Email Options","อีเมล ตัวเลือก"
+"Send Emails To",ส่งอีเมลถึง
+"Email Sender",ผู้ส่งอีเมล
+"Email Template",เทมเพลตอีเมล
+"Invalid domain name: %1","ชื่อโดเมนไม่ถูกต้อง: %1"
+"Save Currency Rates",บันทึกอัตราแลกเปลี่ยนสกุลเงิน
+"Manage Currency Rates",จัดการอัตราแลกเปลี่ยนสกุลเงิน
+"Import Service",บริการนำเข้า
+"Save Currency Symbols","บันทึก สัญญลักษณ์ สกุลเงิน"
+"Currency Symbols",สัญลักษณ์สกุลเงิน
+"Use Standard",ใช้มาตรฐาน
+"Click ""Save"" to apply the rates we found.","คลิก ""บันทึก"" เพื่อใช้กับอัตราที่เราพบ"
+"Currency Rates",อัตราแลกเปลี่ยนสกุลเงิน
+"Please correct the input data for ""%1 => %2"" rate.","กรุณาแก้ไขข้อมูลป้อนเข้า เรท ""%1 => %2"""
+"All valid rates have been saved.","บันทึกเรท ทั้งหมดแล้ว"
+"You applied the custom currency symbols.",คุณได้ใช้สัญลักษณ์สกุลเงินแบบกำหนดเองแล้ว
+"You must first configure currency options before being able to see currency rates.","คุณต้องตั้งค่าตัวเลือกสกุลเงินก่อน จึงจะสามารถดูอัตราแลกเปลี่ยนสกุลเงินได้"
+"Old rate:",อัตราเก่า:
+"Text Field",ฟิลด์ข้อความ
+"Text Area",พื้นที่ข้อความ
+"Multiple Line",หลายบรรทัด
+Yes/No,ใช่/ไม่ใช่
+"File (attachment)","ไฟล์ (ที่แนบ)"
+"Image File",ไฟล์รูปภาพ
+Alphanumeric,ตัวอักษรตัวเลข
+"Numeric Only",ตัวเลขเท่านั้น
+"Alpha Only",ตัวอักษรเท่านั้น
+"Strip HTML Tags","นำ HTML Tags ออก"
+"The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Attribute code ใช้งานไม่ได้ โปรดใช้ (a-z), (0-9) หรือ underscores (_) เท่านั้น และต้องขึ้นต้นด้วยตัวอักษร"
 "You are subscribed to our newsletter.",คุณสมัครสมาชิกจดหมายข่าวของเราแล้ว
 "You aren't subscribed to our newsletter.",คุณไม่ได้สมัครสมาชิกจดหมายข่าวของเรา
 "You have not set a default shipping address.",คุณไม่ได้ตั้งค่าเริ่มต้นที่อยู่จัดส่ง
 "You have not set a default billing address.",คุณไม่ได้ตั้งค่าเริ่มต้นที่อยู่ในการออกใบเสร็จ
+"Address Book",ข้อมูลที่อยู่จัดส่งสินค้า
+"Edit Address",แก้ไขที่อยู่จัดส่งสินค้า
+"Add New Address",เพิ่มที่อยู่ใหม่
 region,ภูมิภาค
 "Save Customer",บันทึกลูกค้า
+"Reset Password",รีเซ็ตรหัสผ่าน
+"Force Sign-In",บังคับให้ลงชื่อเข้าใช้
 "New Customer",ลูกค้าใหม่
 "Shopping Cart from %1","รถเข็น %1"
+Newsletter,จดหมายข่าว
 "Start date",วันที่เริ่มต้น
+Subject,หัวข้อ
+Sent,ส่งแล้ว
+Sending,กำลังส่ง...
+Paused,ถูกหยุดชั่วคราว
+Unknown,ไม่ทราบ
 "New Group",สร้างกลุ่มใหม่
+"Grand Total",รวมทั้งหมด
+"View Order","ดู รายการสั่งซื้อ"
+Wishlist,รายการโปรด
+"1 item in wish list","1 สินค้า ในรายการสิ่งที่ชอบ"
+"%1 items in wish list","%1 สินค้า ในรายการสิ่งที่ชอบ"
+"Product(s) %1 have required options. Each product can only be added individually.","สินค้า %1 มีตัวเลือกที่จำเป็นต้องระบุ สินค้าแต่ละชิ้นสามารถเพิ่มได้ทีละรายการเท่านั้น"
+"Copy to Wish List","คัดลอดไปที่ รายการที่ชอบ"
+"Move Selected to Wish List","ย้ายรายการที่เลือกไปที่ รายการที่ชอบ"
+"Copy Selected to Wish List","คัดลอกรายการที่เลือกไปที่ รายการที่สิ่งชอบ"
+"Review by","รีวิว โดย"
+"Print Order",พิมพ์ใบสั่งซื้อ
 "10 by default. Max - 10000","10 เป็นค่าเริ่มต้น สูงสุด 10000"
 "255 by default","255 เป็นค่าเริ่มต้น"
