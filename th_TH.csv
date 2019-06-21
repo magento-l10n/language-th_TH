@@ -1,8 +1,9 @@
 All,ทั้งหมด
 None,ไม่มี
-"You need more permissions to apply some of the rule updates.",คุณต้องการให้สิทธิ์เพิ่มเติมในการอัพเดท
+"You need more permissions to apply some of the rule updates.",คุณต้องการสิทธิ์เพิ่มเติมในการอัพเดท
 "You need more permissions to access website ""%1"".","คุณต้องเพิ่มเติมสิทธิ์การเข้าถึงเว็บไซต์ ""%1""."
 Custom,กำหนดเอง
+"More permissions are needed to save this setting.",สิทธิ์เพิ่มเติมจำเป็นต่อการบันทึกการตั่งค่านี้
 "Read Details",อ่านรายละเอียด
 "Mark as Read",ทำเครื่องหมายว่าอ่านแล้ว
 "Are you sure?",คุณแน่ใจหรือไม่?
@@ -639,3 +640,16 @@ Wishlist,รายการโปรด
 "Print Order",พิมพ์ใบสั่งซื้อ
 "10 by default. Max - 10000","10 เป็นค่าเริ่มต้น สูงสุด 10000"
 "255 by default","255 เป็นค่าเริ่มต้น"
+Summary,สรุป
+"Account Dashboard",แดชบอร์ดผู้ใช้
+Menu,เมนู
+Account,บัญชีผู้ใช้
+"Backup options",ตัวเลือกการสำรองข้อมูล
+Warning,คำเตือน
+Ok,ตกลง
+"No records found.",ไม่พบข้อมูล
+"Recent items",รายการล่าสุด
+"Show all...",แสดงทั้งหมด...
+"Please specify Url.","กรุณาระบุ Url"
+"Please wait...",กรุณารอสักครู่...
+"All ","ทั้งหมด "
