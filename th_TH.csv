@@ -810,9 +810,14 @@ Account,บัญชีผู้ใช้
 "Backup options",ตัวเลือกการสำรองข้อมูล
 Warning,คำเตือน
 Ok,ตกลง
+"Insert Widget...","เพิ่ม วิดเก็ต..."
 "No records found.",ไม่พบข้อมูล
 "Recent items",รายการล่าสุด
 "Show all...",แสดงทั้งหมด...
+"Please enter a number greater 0 in this field.","โปรดป้อนตัวเลขที่มากกว่า 0 ในฟิลด์นี้"
+"Please select one of each ratings above.",โปรดเลือกหนึ่งในแต่ละการให้คะแนนด้านบน
 "Please specify Url.","กรุณาระบุ Url"
+"Method %s does not exist on jQuery.decorate","เมธอด %s ไม่มีอยู่ใน jQuery.decorate"
 "Please wait...",กรุณารอสักครู่...
 "All ","ทั้งหมด "
+more,อื่นๆ
