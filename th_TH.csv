@@ -784,6 +784,7 @@ Newsletter,จดหมายข่าว
 "Start date",วันที่เริ่มต้น
 Subject,หัวข้อ
 Sent,ส่งแล้ว
+"Not Sent",ไม่ส่ง
 Sending,กำลังส่ง...
 Paused,ถูกหยุดชั่วคราว
 Unknown,ไม่ทราบ
