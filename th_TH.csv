@@ -562,6 +562,8 @@ Select...,เลือก...
 "Special Price",ราคาพิเศษ
 Always,ทุกครั้ง
 Root,หลัก
+"Add Subcategory",เพิ่มหมวดหมู่ย่อย
+"Add Root Category",เพิ่มหมวดหมู่หลัก
 Day,วัน
 Month,เดือน
 Year,ปี
@@ -585,6 +587,7 @@ label,ป้ายชื่อ
 Website,เว็บไซต์
 Global,ตั้งค่าระบบหลัก
 Scope,ขอบเขต
+"Enable WYSIWYG","เปิดใช้งาน WYSIWYG"
 Properties,คุณสมบัติ
 Visible,มองเห็นได้
 Searchable,ค้นหาได้
@@ -627,11 +630,15 @@ Import,นำเข้า
 "Add New Images",เพิ่มรูปภาพใหม่
 "Inc. Tax",รวมภาษี
 "Go to Home Page",ไปยังหน้าหลัก
+"Products Comparison List",รายการเปรียบเทียบสินค้า
 "New Products",เพิ่มสินค้าใหม่
 "Click for price",คลิกเพื่อดูราคา
 "Price: %1","ราคา: %1"
+"Special Price: %1","ราคาพิเศษ: %1"
 "Manage Categories",จัดการหมวดหมู่
 Categories,หมวดหมู่
+"You moved the category.",คุณย้ายหมวดหมู่แล้ว
+"You saved the category.",คุณบันทึกหมวดหมู่แล้ว
 "Unable to add attribute",ไม่สามารถเพิ่มแอตทริบิ้วต์ได้
 "Please, specify attributes",กรุณาระบุแอตทริบิวต์
 "Manage Product Attributes",จัดการแอตทริบิ้วต์สินค้า
@@ -650,6 +657,15 @@ List,รายการ
 "List (default) / Grid","รายการ (ค่าเริ่มต้น) / ตาราง"
 Manual,ปรับเอง
 "-- Please select --","-- กรุณาเลือก --"
+Top/Left,บนซ้าย
+Top/Right,บนขวา
+Bottom/Left,ล่างซ้าย
+Bottom/Right,ล่างขวา
+Center,กึ่งกลาง
+Category,หมวดหมู่
+"Could not save Prices.",ไม่สามารถบันทึกราคาได้
+"Could not delete Prices",ไม่สามารถลบราคาได้
+"Catalog, Search","หมวดหมู่, ค้นหา"
 "Add to Wish List","เพิ่มลงใน รายการสิ่งที่ชอบ"
 "Add to Compare",เพิ่มลงในการเปรียบเทียบ
 "Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
