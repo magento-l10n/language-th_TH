@@ -670,6 +670,7 @@ Category,หมวดหมู่
 "Add to Compare",เพิ่มลงในการเปรียบเทียบ
 "Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
 "Add to Wishlist",เพิ่มไปยังรายการโปรด
+"The product's required option(s) weren't entered. Make sure the options are entered and try again.",กรุณาเลือกตัวเลือกของสินค้านี้
 Priority,ระดับความสำคัญ
 "Scheduled Changes",กำหนดการ
 "Update Information",แก้ไขข้อมูล
@@ -685,6 +686,7 @@ Conditions,เงื่อนไข
 "End Time",เวลาสิ้นสุด
 "New Theme","ธีมใหม่ "
 "Currently Active",กำลังใช้งานอยู่
+City,เขต/อำเภอ
 "My Cart (1 item)","ตะกร้า (1 ชิ้น)"
 "My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
 "My Cart",ตะกร้า
@@ -730,6 +732,10 @@ Login,เข้าสู่ระบบ
 "Cart Subtotal",ผลรวมย่อยของรถเข็น
 "No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน
 "You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี"
+"Forgot Password",ลืมรหัสผ่าน
+"Item in Cart",ชิ้นในตะกร้า
+"Items in Cart",ชิ้นในตะกร้า
+"Billing Address",ที่อยู่สำหรับออกบิล
 Identifier,ยืนยัน
 "This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป
 "Page Title",ชื่อหน้า
@@ -797,6 +803,11 @@ region,ภูมิภาค
 "New Customer",ลูกค้าใหม่
 "Shopping Cart from %1","รถเข็น %1"
 Newsletter,จดหมายข่าว
+"Newsletter Information",ข้อมูลจดหมายข่าว
+"Subscribed to Newsletter",สมัครรับจดหมายข่าว
+"Last Date Subscribed",วันที่สมัครครั้งล่าสุด
+"Last Date Unsubscribed",วันที่ยกเลิกสมัครครั้งล่าสุด
+"No Newsletter Found",ไม่พบจดหมายข่าว
 "Start date",วันที่เริ่มต้น
 Subject,หัวข้อ
 Sent,ส่งแล้ว
@@ -804,9 +815,78 @@ Sent,ส่งแล้ว
 Sending,กำลังส่ง...
 Paused,ถูกหยุดชั่วคราว
 Unknown,ไม่ทราบ
+"Order Total",ยอดสั่งซื้อ
+"There are no items in customer's shopping cart.",ไม่มีสินค้าในตะกร้าของลูกค้า
+Confirmed,ยืนยัน
+"Confirmation Required","ต้องการ การยืนยัน"
+"Confirmation Not Required","ไม่ต้องการ การยืนยัน"
+Indeterminate,ไม่แน่นอน
+"The customer does not have default billing address.",ลูกค้าไม่ได้กำหนดที่อยู่หลักสำหรับจัดส่งบิล
+Offline,ออฟไลน์
+Online,ออนไลน์
+Never,ไม่เคย
+Unlocked,ปลดล็อก
+Locked,ล็อก
+"Deleted Stores",ร้านค้าที่ถูกลบ
+"Add Locale",เพิ่มภาษา
+"Add Date",เพิ่มวันที่
+Unlock,ปลดล็อก
+"Delete File",ลบไฟล์
+"Delete Image",ลบรูป
+"View Full Size",ดูขนาดเต็ม
+"All countries",ทุกประเทศ
+"Add New Customer Group",เพิ่มกลุ่มลูกค้า
+"Save Customer Group",บันทึกกลุ่มลูกค้า
+"Delete Customer Group",ลบกลุ่มลูกค้า
+"New Customer Group",เพิ่มกลุ่มลูกค้า
+"Edit Customer Group ""%1""","แก้ไขกลุ่มลูกค้า ""%1"""
+"Group Information",ข้อมูลกลุ่ม
+"Group Name",ชื่อกลุ่ม
+"Maximum length must be less then %1 characters.","ความยาวสูงสุดไม่เกิน %1 ตัวอักษร"
+"The customer is now assigned to Customer Group %s.","ลูกค้าถูกจัดให้อยู่ที่กลุ่ม %s แล้ว"
+"Would you like to change the Customer Group for this order?",คุณต้องการเปลี่ยนแปลงกลุ่มลูกค้าสำหรับคำสั่งซื้อนี้หรือไม่
+"Something went wrong while saving the new password.",เกิดข้อผิดพลาดขณะบันทึกรหัสผ่านใหม่
+"You deleted the address.",คุณลบที่อยู่แล้ว
+"We can't delete the address right now.",คุณไม่สามารถลบที่อยู่ได้ในขณะนี้
+"You saved the address.",คุณบันทึกที่อยู่แล้ว
+"We can't save the address.",เราไม่สามารถบันทึกที่อยู่ได้
+"Something went wrong while saving file.",เกิดข้อผิดพลาดขณะบันทึกไฟล์
+"You deleted the customer group.",คุณลบกลุ่มลูกค้าแล้ว
+"The customer group no longer exists.",ไม่มีกลุ่มลูกค้านี้แล้ว
 "New Group",สร้างกลุ่มใหม่
+"New Customer Groups",เพิ่มกลุ่มลูกค้า
+"Edit Group",แก้ไขกลุ่ม
+"Edit Customer Groups",แก้ไขกลุ่มลูกค้า
+"You saved the customer group.",คุณบันทึกกลุ่มลูกค้าแล้ว
+"Please select customer(s).",กรุณาเลือกลูกค้า
+"Customer could not be deleted.",ไม่สามารถลบลูกค้าได้
+"You deleted the customer.",คุณลบลูกค้าแล้ว
+"Something went wrong while editing the customer.",เกิดข้อผิดพลาดขณะกำลังแก้ไขข้อมูลลูกค้า
+"Manage Customers",จัดการลูกค้า
+"The customer will receive an email with a link to reset password.",ลูกค้าจะได้รับอีเมลที่มีลิงค์สำหรับตั้งรหัสผ่านใหม่
+"Something went wrong while resetting customer password.",เกิดข้อผิดพลาดขณะตั้งรหัสผ่านของลูกค้าใหม่
+"You saved the customer.",คุณบันทุกข้อมูลลูกค้าแล้ว
+"Something went wrong while saving the customer.",เกิดข้อผิดพลาดขณะบันทึกข้อมูลลูกค้า
+"Customer has been unlocked successfully.",ปลดล็อกลูกค้าเรียบร้อยแล้ว
+"Online Customers",ลูกค้าที่ออนไลน์
+"Login successful.",เข้าสู่ระบบสำเร็จ
+"Invalid login or password.",ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
+"No confirmation needed.",ไม่จำเป็นต้องยืนยัน
+"The account is locked.",บัญชีของคุณถูกล็อก
+"This account is not confirmed.",บัญชีนี้ไม่ได้รับการยืนยัน
+"Please enter a password with at most %1 characters.","กรุณากรอกรหัสผ่านที่มีความยาวไม่เกิน %1 ตัวอักษร"
+"Please enter a password with at least %1 characters.","กรุณากรอกรหัสผ่านที่มีความยาวไม่น้อยกว่า %1 ตัวอักษร"
+"The password can't begin or end with a space.","รหัสผ่านจะต้องไม่ขึ้นต้น หรือลงท้ายด้วยการเว้นวรรค"
+"Password cannot be the same as email address.",รหัสผ่านจะต้องไม่เหมือนกับอีเมล
+"This customer already exists in this store.",มีลูกค้าท่านนี้อยู่ในร้านค้านี้อยู่แล้ว
+"""%1"" is not a valid URL.","""%1"" ไม่ใช่ URL ที่ถูกต้อง"
+"""%1"" is not a valid date.","""%1"" ไม่ใช่วันที่ที่ถูกต้อง"
+Male,ชาย
+Female,หญิง
+"Not Specified",ไม่ระบุ
 "Grand Total",รวมทั้งหมด
 "View Order","ดู รายการสั่งซื้อ"
+"New Address",ที่อยู่ใหม่
 Wishlist,รายการโปรด
 "1 item in wish list","1 สินค้า ในรายการสิ่งที่ชอบ"
 "%1 items in wish list","%1 สินค้า ในรายการสิ่งที่ชอบ"
@@ -822,8 +902,12 @@ Summary,สรุป
 "Account Dashboard",แดชบอร์ดผู้ใช้
 Menu,เมนู
 Account,บัญชีผู้ใช้
+"Welcome to %store_name.","ยินดีต้อนรับสู่ %store_name"
+Email:,อีเมล์:
+Password:,รหัสผ่าน:
 "Order Status",สถานะการสั่งซื้อ
 "Manage Addresses",จัดการที่อยู่
+"About Us",เกี่ยวกับเรา
 "Backup options",ตัวเลือกการสำรองข้อมูล
 Warning,คำเตือน
 Ok,ตกลง
