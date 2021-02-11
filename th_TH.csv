@@ -3,7 +3,6 @@ None,ไม่มี
 "You need more permissions to apply some of the rule updates.",คุณต้องการสิทธิ์เพิ่มเติมในการอัพเดท
 "You need more permissions to access website ""%1"".","คุณต้องเพิ่มเติมสิทธิ์การเข้าถึงเว็บไซต์ ""%1""."
 Custom,กำหนดเอง
-"More permissions are needed to save this setting.",สิทธิ์เพิ่มเติมจำเป็นต่อการบันทึกการตั่งค่านี้
 "Read Details",อ่านรายละเอียด
 "Mark as Read",ทำเครื่องหมายว่าอ่านแล้ว
 "Are you sure?",คุณแน่ใจหรือไม่?
@@ -265,7 +264,6 @@ To,ถึง
 "Add New",เพิ่มใหม่
 Export,ส่งออก
 "Please correct the column format and try again.","กรุณาแก้ไขรูปแบบของคอลัมน์ และลองอีกครั้ง"
-"Please select items.",กรุณาเลือกรายการ
 Submit,ส่ง
 "Unknown block type",ประเภทบล็อกที่ไม่รู้จัก
 "Please correct the tab configuration and try again. Tab Id should be not empty","กรุณาแก้ไขการกำหนดค่าแท็บ และลองอีกครั้ง Id ของแท็บไม่ว่างเปล่า"
@@ -318,8 +316,8 @@ Username,ชื่อผู้ใช้
 Password,รหัสผ่าน
 password,รหัสผ่าน
 "Sign in",ลงชื่อเข้าใช้
-"Select Range:",เลือก
 "No Data Found",ไม่พบข้อมูล
+"Select Range:",เลือก
 "Last Orders",คำสั่งซื้อล่าสุด
 "Last Search Terms",การค้นหาล่าสุด
 "Top Search Terms",การค้าหาสูงสุด
@@ -359,7 +357,6 @@ Attributes,คุณสมบัติ
 "Data Transfer",โอนถ่ายข้อมูล
 "Magento Connect","เนื้อหาของ Magento"
 Tools,เครื่องมือ
-"Web Setup Wizard",ตัวช่วยการตั้งค่าเว็บไซต์
 Currency,สกุลเงิน
 Services,บริการ
 Advanced,ขั้นสูง
@@ -401,7 +398,6 @@ Pagination,เลขหน้า
 "How many links to display at once.","จำนวนลิ้งก์ ที่แสดงใน 1 ครั้ง"
 "Pagination Frame",เฟรมการแบ่งตัวเลขหน้า
 "Theme Name",ชื่อธีม
-"Page not found.",ไม่พบหน้านี้
 "System Backup",สำรองข้อมูลระบบ
 "Database and Media Backup","สำรองข้อมูล ฐานข้อมูลและสื่อ"
 "Database Backup","การสำรองข้อมูล ฐานข้อมูล"
@@ -445,70 +441,32 @@ Frequency,ความถี่
 Size(bytes),ขนาด(bytes)
 Type,ชนิด
 Download,ดาวน์โหลด
-Banners,แบนเนอร์
-"Add Banner",เพิ่มแบนเนอร์
-"Save Banner",บันทึกแบนเนอร์
-"Delete Banner",ลบแบนเนอร์
 "Save and Continue Edit","บันทึก และแก้ไขต่อไป"
-"New Banner",สร้างแบนเนอร์ใหม่
 "Default Content",เนื้อหาตั้งต้น
 "No Default Content",ไม่มีเนื้อหาตั้งต้น
-"Banner Default Content for All Store Views","แบนเนอร์ค่าเริ่มต้น สำหรับทุกมุมมองร้านค้า"
 "Store View Specific Content","เนื้อหา สำหรับมุมมองร้านค้าที่ระบุ"
 "Use Default",ใช้ค่าเริ่มต้น
 "Related Promotions",โปรโมชั่นที่เกี่ยวข้อง
 Rule,"กฎ เงื่อนไข"
 "Start Date",วันที่เริ่มต้น
 "End Date",ถึงวันที่
-"Banner Properties",คุณสมบัติแบนเนอร์
-"Banner Name",ชื่อแบนเนอร์
 Active,ใช้งานอยู่
 Inactive,ไม่ใช้งาน
 "Applies To",นำไปใช้กับ
-"Any Banner Type",ปรเภทแบนเนอร์ใดๆ
-"Specified Banner Types",ประเภทแบนเนอร์ที่ระบุ
 "Specify Types",ประเภทที่ระบุ
-"Banner Information",ข้อมูลแบนเนอร์
-Banner,แบนเนอร์
-"Banner Type",ประเภทแบนเนอร์
-Visibility,การมองเห็นได้
-"Are you sure you want to delete these banners?","คุณแน่ใจหรือไม่ ที่จะลบแบนเนอร์เหล่านี้?"
-"Related Banners",แบนเนอร์ที่เกี่ยวข้อง
 Position,ตำแหน่ง
 "This rule no longer exists.",เงื่อนไขนี้ไม่มีอยู่แล้ว
-"This banner does not exist.",ไม่มีแบนเนอร์นี้
-"You deleted the banner.",ลบแบนเนอร์แล้ว
-"Something went wrong while deleting banner data. Please review the action log and try again.","เกิดข้อผิดพลาดขณะลบข้อมูลแบนเนอร์ โปรดตรวจสอบบันทึกการทำงานแล้วลองอีกครั้ง"
-"We cannot find a banner to delete.",เราไม่พบแบนเนอร์ที่จะลบ
-"This banner no longer exists.",แบนเนอร์นี้ไม่มีอยู่อีกต่อไป
-"Edit Banner",แก้ไขแบนเนอร์
-"Please select a banner(s).",กรุณาเลือกแบนเนอร์
 "You deleted %1 record(s).","ลบ %1รายการแล้ว"
-"Something went wrong while mass-deleting banners. Please review the action log and try again.","เกิดข้อผิดพลาดบางอย่างขณะลบแบนเนอร์จำนวนมาก โปรดตรวจสอบบันทึกการทำงานแล้วลองอีกครั้ง"
-"You saved the banner.",บันทึกแบนเนอร์แล้ว
-"We cannot save the banner.",ไม่สามารถบันทึกแบนเนอร์ได้
 "Please enter a name.",กรุณาระบุชื่อ
-"Please specify default content for at least one store view.","กรุณาระบุเนื้อหาเริ่มต้น สำหรับอย่างน้อย 1 มุมมองร้านค้า"
 "-- None --",-ไม่มี-
-"Related Cart Price Rules","เงื่อนไขราคาตะกร้าสินค้า ที่เกี่ยวข้อง"
-"Related Catalog Price Rules","เงื่อนไขแค็ตตาล็อกราคา ที่เกี่ยวข้อง"
 "Content Area",พื้นที่เนื้อหา
 Footer,ส่วนท้าย
 Header,ส่วนหัว
 "Left Column",คอลัมน์ซ้าย
 "Right Column",คอลัมน์ด้านขวา
-"Manage Banners",จัดการแบนเนอร์
-"Banner Rotator","แบนเนอร์ เลื่อนไปมา"
-"Displays Specified or Promotion Banners","แสดงแบนเนอร์ที่ระบุ หรือ โปรโมชั่นแบนเนอร์"
-"Banners to Display",แบนเนอร์ที่แสดง
-"Specified Banners",แบนเนอร์ที่ระบุ
-"Shopping Cart Promotions Related","โปรโมชั่นตะกร้าสินค้า ที่เกี่ยวข้อง"
-"Catalog Promotions Related","แค็ตตาล็อกโปรโมชั่น ที่เกี่ยวข้อง"
-"Restrict by Banner Types",จำกัดโดยประเภทแบนเนอร์
 "Rotation Mode","โหมดการ เปลี่ยนภาพ"
 "Display all instead of rotating","แสดงทั้งหมด แทนการเปลี่ยนทีละภาพ"
-"Specify Banners",ระบุแบนเนอร์
-"General Information",ข้อมูลทั่วไป
+Visibility,การมองเห็นได้
 "All Segments",เซ็กเมนต์ทั้งหมด
 "Customer Segment",เซ็กเมนต์ลูกค้า
 "Sorry, but something went wrong","ขออภัย! มีบางอย่างผิดปกติ"
@@ -559,7 +517,6 @@ Message:,ข้อ​ความ:
 "Add Products to New Option",เพิ่มสินค้าไปที่ตัวเลือกใหม่
 "Add Products to Option ""%1""","เพิ่มสินค้าไปที่ตัวเลือก ""%1"""
 Select...,เลือก...
-"Special Price",ราคาพิเศษ
 Always,ทุกครั้ง
 Root,หลัก
 "Add Subcategory",เพิ่มหมวดหมู่ย่อย
@@ -567,8 +524,6 @@ Root,หลัก
 Day,วัน
 Month,เดือน
 Year,ปี
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>จาก</span></label>"
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>ถึง</span></label>"
 "Add Product",เพิ่มสินค้า
 label,ป้ายชื่อ
 "Product Attributes",แอตทริบิ้วต์สินค้า
@@ -587,7 +542,6 @@ label,ป้ายชื่อ
 Website,เว็บไซต์
 Global,ตั้งค่าระบบหลัก
 Scope,ขอบเขต
-"Enable WYSIWYG","เปิดใช้งาน WYSIWYG"
 Properties,คุณสมบัติ
 Visible,มองเห็นได้
 Searchable,ค้นหาได้
@@ -640,12 +594,10 @@ Categories,หมวดหมู่
 "You moved the category.",คุณย้ายหมวดหมู่แล้ว
 "You saved the category.",คุณบันทึกหมวดหมู่แล้ว
 "Unable to add attribute",ไม่สามารถเพิ่มแอตทริบิ้วต์ได้
-"Please, specify attributes",กรุณาระบุแอตทริบิวต์
 "Manage Product Attributes",จัดการแอตทริบิ้วต์สินค้า
 "We can't delete the attribute.",ไม่สามารถลบแอตทริบิวต์ได้
 "You deleted the product attribute.",คุณได้ลบแอตทริบิวต์สินค้าแล้ว
 "This attribute no longer exists.",แอตทริบิ้วต์นี้ไม่มีอยู่แล้ว
-"Unable to save product",ไม่สามารถบันทึกสินค้าได้
 "You saved the product.",คุณบันทึกสินค้าแล้ว
 "1 item","1 รายการ"
 "%1 items","%1 รายการ"
@@ -670,7 +622,6 @@ Category,หมวดหมู่
 "Add to Compare",เพิ่มลงในการเปรียบเทียบ
 "Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
 "Add to Wishlist",เพิ่มไปยังรายการโปรด
-"The product's required option(s) weren't entered. Make sure the options are entered and try again.",กรุณาเลือกตัวเลือกของสินค้านี้
 Priority,ระดับความสำคัญ
 "Scheduled Changes",กำหนดการ
 "Update Information",แก้ไขข้อมูล
@@ -691,6 +642,7 @@ City,เขต/อำเภอ
 "My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
 "My Cart",ตะกร้า
 Checkout,ชำระเงิน
+"Page not found.",ไม่พบหน้านี้
 "Payment Page",หน้าการชำระเงิน
 " item"," รายการ"
 " items"," รายการ"
@@ -727,19 +679,18 @@ Update,อัพเดท
 "You can create an account after checkout.","คุณสามารถสร้างบัญชีผู้ใช้ได้ หลังจากทำการชำระเงิน"
 "You already have an account with us. Sign in or continue as guest.","คุณมีบัญชีอยู่กับเราแล้ว ลงชื่อเข้าใช้ หรือดำเนินการต่อ"
 Login,เข้าสู่ระบบ
+"Items in Cart",ชิ้นในตะกร้า
+"Item in Cart",ชิ้นในตะกร้า
 "See Details",ดูรายละเอียด
 "Options Details",รายละเอียดตัวเลือก
 "Cart Subtotal",ผลรวมย่อยของรถเข็น
 "No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน
 "You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี"
-"Forgot Password",ลืมรหัสผ่าน
-"Item in Cart",ชิ้นในตะกร้า
-"Items in Cart",ชิ้นในตะกร้า
-"Billing Address",ที่อยู่สำหรับออกบิล
 Identifier,ยืนยัน
 "This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป
 "Page Title",ชื่อหน้า
 View,มุมมอง
+"General Information",ข้อมูลทั่วไป
 "Enable Block",เปิดใช้งานบล็อก
 "Block Title",หัวข้อ
 "Enable Page",เปิดใช้งานหน้า
@@ -871,13 +822,8 @@ Unlock,ปลดล็อก
 "Online Customers",ลูกค้าที่ออนไลน์
 "Login successful.",เข้าสู่ระบบสำเร็จ
 "Invalid login or password.",ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
-"No confirmation needed.",ไม่จำเป็นต้องยืนยัน
 "The account is locked.",บัญชีของคุณถูกล็อก
-"This account is not confirmed.",บัญชีนี้ไม่ได้รับการยืนยัน
 "Please enter a password with at most %1 characters.","กรุณากรอกรหัสผ่านที่มีความยาวไม่เกิน %1 ตัวอักษร"
-"Please enter a password with at least %1 characters.","กรุณากรอกรหัสผ่านที่มีความยาวไม่น้อยกว่า %1 ตัวอักษร"
-"The password can't begin or end with a space.","รหัสผ่านจะต้องไม่ขึ้นต้น หรือลงท้ายด้วยการเว้นวรรค"
-"Password cannot be the same as email address.",รหัสผ่านจะต้องไม่เหมือนกับอีเมล
 "This customer already exists in this store.",มีลูกค้าท่านนี้อยู่ในร้านค้านี้อยู่แล้ว
 """%1"" is not a valid URL.","""%1"" ไม่ใช่ URL ที่ถูกต้อง"
 """%1"" is not a valid date.","""%1"" ไม่ใช่วันที่ที่ถูกต้อง"
@@ -897,21 +843,14 @@ Wishlist,รายการโปรด
 "Review by","รีวิว โดย"
 "Print Order",พิมพ์ใบสั่งซื้อ
 "10 by default. Max - 10000","10 เป็นค่าเริ่มต้น สูงสุด 10000"
-"255 by default","255 เป็นค่าเริ่มต้น"
-Summary,สรุป
-"Account Dashboard",แดชบอร์ดผู้ใช้
-Menu,เมนู
-Account,บัญชีผู้ใช้
 "Welcome to %store_name.","ยินดีต้อนรับสู่ %store_name"
 Email:,อีเมล์:
 Password:,รหัสผ่าน:
 "Order Status",สถานะการสั่งซื้อ
 "Manage Addresses",จัดการที่อยู่
-"About Us",เกี่ยวกับเรา
 "Backup options",ตัวเลือกการสำรองข้อมูล
 Warning,คำเตือน
 Ok,ตกลง
-"Insert Widget...","เพิ่ม วิดเก็ต..."
 "No records found.",ไม่พบข้อมูล
 "Recent items",รายการล่าสุด
 "Show all...",แสดงทั้งหมด...
@@ -920,5 +859,4 @@ Ok,ตกลง
 "Please specify Url.","กรุณาระบุ Url"
 "Method %s does not exist on jQuery.decorate","เมธอด %s ไม่มีอยู่ใน jQuery.decorate"
 "Please wait...",กรุณารอสักครู่...
-"All ","ทั้งหมด "
 more,อื่นๆ
