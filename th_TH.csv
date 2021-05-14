@@ -44,7 +44,7 @@ Back,ย้อนกลับ
 "Update Items and Quantities",อัพเดทสินค้าและจำนวน
 "Are you sure you want to clear your cart?",คุณแน่ใจหรือไม่ว่าคุณต้องการลบสินค้าจากตะกร้า?
 "Clear my shopping cart",ล้างตะกร้า
-"Add selections to my cart",ใส่สินค้าที่เลือกในรถเข็นของฉัน
+"Add selections to my cart",ใส่สินค้าที่เลือกในตะกร้าของฉัน
 Cancel,ยกเลิก
 "Select products you want to buy",เลือกสินค้าที่คุณต้องการซื้อ
 Product,สินค้า
@@ -57,7 +57,7 @@ ID,ไอดี
 SKU,รหัสสินค้า
 "Recently Compared Products (%1)","สินค้าที่เปรียบเทียบเมื่อเร็ว ๆ นี้ (%1)"
 "Recently Viewed Products (%1)","สินค้าที่ดูเมื่อเร็ว ๆ นี้ (%1)"
-"Add to Shopping Cart by SKU","เพิ่มลงรถเข็น โดย รหัสสินค้า"
+"Add to Shopping Cart by SKU","เพิ่มลงตะกร้า โดย รหัสสินค้า"
 "Add to Shopping Cart",เพิ่มลงตะกร้าสินค้า
 "Wish List (%1)","รายการที่ชอบ (%1)"
 Apply,นำไปใช้
@@ -70,7 +70,7 @@ Configure,ตั้งค่า
 "You can buy up to %1 of these per purchase.","คุณสามารถซื้อได้มากกว่า %1ชิ้น"
 "Alert me when this item is available.",แจ้งเตือนเมื่อมีสินค้านี้
 Customers,ลูกค้า
-"Shopping Cart",ตระกร้าสินค้า
+"Shopping Cart",ตะกร้าสินค้า
 "You do not have access to this.",คุณไม่สามารถเข้าถึงบริการนี้
 "You cannot configure a product.",ไม่สามารถปรับแต่งสินค้าได้
 "You removed the items.",คุณลบสินค้านี้แล้ว
@@ -134,7 +134,9 @@ Results,ผลลัพธ์
 Yes,ใช่
 "--Please Select--",--กรุณาเลือก--
 Done,เสร็จสิ้น
+Details,รายละเอียด
 "View Details",ดูรายละเอียด
+Summary,ภาพรวม
 "Start Time",วันที่เริ่มต้น
 Status,สถานะ
 Error,ข้อผิดพลาด
@@ -156,6 +158,7 @@ options,ตัวเลือก
 "Select all",เลือกทั้งหมด
 "Deselect all",ไม่เลือกทั้งหมด
 "%s of %s selected","เลือก %s จาก %s"
+"This is a required field.",นี่คือข้อมูลที่จำเป็น
 "B2B Features","B2B คุณสมบัติ"
 "Invalid Form Key. Please refresh the page.","รหัสฟอร์มไม่ถูกต้อง กรุณารีเฟรชหน้า"
 "You entered an invalid Secret Key. Please refresh the page.","คุณป้อนรหัสลับไม่ถูกต้อง กรุณารีเฟรชหน้า"
@@ -482,6 +485,7 @@ YY,ปี
 "CVV Verification","รหัส CVV"
 "Payment Information",ข้อมูลการชำระเงิน
 "* Required Fields",ข้อมูลที่จำเป็นต้องกรอก
+Company,บริษัท
 State/Province,จังหวัด
 "Zip/Postal Code",รหัสไปรษณีย์
 "Paypal account","บัญชี PayPal"
@@ -495,6 +499,7 @@ Fixed,คงที่
 "What are you looking for?",คุณกำลังมองหาอะไรอยู่?
 "Use Default Value",ใช้ค่าเริ่มต้น
 "Price Range",ช่วงราคา
+"As Low as",ราคาเริ่มต้น
 Percent,เปอร์เซนต์
 "Add Selected Products",เพิ่มสินค้าที่เลือก
 "Add Option",เพิ่มตัวเลือก
@@ -506,6 +511,9 @@ Percent,เปอร์เซนต์
 Required,จำเป็น
 "Is Default",เป็นค่าเริ่มต้น
 "Regular Price",ราคาปกติ
+"As low as",ราคาเริ่มต้น
+"Go back to product details",กลับไปยังรายละเอียดสินค้า
+"In stock",มีสินค้า
 "Out of stock",สินค้าหมด
 Availability:,สถานะสินค้า:
 "Gift Message",ข้อความสำหรับของขวัญ
@@ -518,6 +526,8 @@ Message:,ข้อ​ความ:
 "Add Products to Option ""%1""","เพิ่มสินค้าไปที่ตัวเลือก ""%1"""
 Select...,เลือก...
 Always,ทุกครั้ง
+"Reload captcha","โหลด captcha ใหม่"
+"Please type the letters and numbers below",กรุณาพิมพ์ตัวอักษรและตัวเลขด้านล่าง
 Root,หลัก
 "Add Subcategory",เพิ่มหมวดหมู่ย่อย
 "Add Root Category",เพิ่มหมวดหมู่หลัก
@@ -618,10 +628,18 @@ Category,หมวดหมู่
 "Could not save Prices.",ไม่สามารถบันทึกราคาได้
 "Could not delete Prices",ไม่สามารถลบราคาได้
 "Catalog, Search","หมวดหมู่, ค้นหา"
+"In Stock",มีสินค้า
+"Shop By",เลือกซื้อโดย
 "Add to Wish List","เพิ่มลงใน รายการสิ่งที่ชอบ"
 "Add to Compare",เพิ่มลงในการเปรียบเทียบ
 "Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
+"Sort By",เรียงตาม
+"Set Ascending Direction",เรียงจากน้อยไปหามาก
+"Set Descending Direction",เรียงจากมากไปหาน้อย
+Adding...,กำลังเพิ่ม....
+Added,เพิ่มแล้ว
 "Add to Wishlist",เพิ่มไปยังรายการโปรด
+"Back to Category",กลับไปที่หมวดหมู่
 Priority,ระดับความสำคัญ
 "Scheduled Changes",กำหนดการ
 "Update Information",แก้ไขข้อมูล
@@ -635,24 +653,32 @@ Conditions,เงื่อนไข
 "Move to Another Update",ย้ายการปรับปรุงอื่น
 "Delete the Update",ลบการปรับปรุง
 "End Time",เวลาสิ้นสุด
+"Sort Products By",เรียงสินค้าตาม
 "New Theme","ธีมใหม่ "
 "Currently Active",กำลังใช้งานอยู่
 City,เขต/อำเภอ
 "My Cart (1 item)","ตะกร้า (1 ชิ้น)"
 "My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
 "My Cart",ตะกร้า
+"For delivery questions.",สำหรับสอบถามเกี่ยวกับการจัดส่ง
 Checkout,ชำระเงิน
 "Page not found.",ไม่พบหน้านี้
+"Payment Method",วิธีการชำระเงิน
 "Payment Page",หน้าการชำระเงิน
 " item"," รายการ"
 " items"," รายการ"
 Error!,ข้อผิดพลาด!
+"Apply Discount Code",ใช้รหัสส่วนลด
+"Enter discount code",ใส่รหัสส่วนลด
+"Apply Discount",ใช้ส่วนลด
+"Continue Shopping",ช้อปปิ้งต่อ
 "Update Shopping Cart",อัพเดทตะกร้าสินค้า
 "Update Cart","อัพเดท ตะกร้าสินค้า"
 "You have no items in your shopping cart.",คุณไม่มีสินค้าในตะกร้า
 "Click <a href=""%1"">here</a> to continue shopping.","คลิก <a href=""%1"">ที่นี่</a> เพื่อช้อปปิ้งต่อ"
 "Estimate Tax",ภาษีโดยประมาณ
 "Estimate Shipping and Tax","ค่าจัดส่ง และภาษี โดยประมาณ"
+"You added %1 to your <a href=""%2"">shopping cart</a>.","คุณเพิ่ม %1 ใส่ <a href=""%2"">ตะกร้าสินค้า</a>ของคุณแล้ว"
 "Order #","รายการสั่งซื้อ #"
 "Proceed to Checkout",เริ่มชำระเงิน
 "Your order number is: %1.","รหัสการสั่งซื้อของคุณคือ %1"
@@ -681,11 +707,19 @@ Update,อัพเดท
 Login,เข้าสู่ระบบ
 "Items in Cart",ชิ้นในตะกร้า
 "Item in Cart",ชิ้นในตะกร้า
+"View and Edit Cart",ดูและแก้ไขตะกร้า
 "See Details",ดูรายละเอียด
 "Options Details",รายละเอียดตัวเลือก
-"Cart Subtotal",ผลรวมย่อยของรถเข็น
+"Cart Subtotal",ผลรวมย่อยของตะกร้า
 "No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน
 "You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี"
+"Create an Account",สร้างบัญชี
+"Ship To:",ส่งไปที่:
+"Shipping Address",ที่อยู่จัดส่ง
+"Shipping Methods",วิธีการจัดส่ง
+"Order Summary",สรุปรายการสั่งซื้อ
+"Review & Payments",ตรวจสอบและชำระเงิน
+"We'll send your order confirmation here.",เราจะส่งการยืนยันคำสั่งซื้อของคุณที่นี่
 Identifier,ยืนยัน
 "This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป
 "Page Title",ชื่อหน้า
@@ -698,11 +732,18 @@ View,มุมมอง
 "The block will be removed from the update and all scheduled changes will be lost.","บล็อกจะถูกเอาออกจากการปรับปรุง และเปลี่ยนแปลงตามกำหนดการทั้งหมดจะหายไป"
 "Remove CMS page from Update","เอาหน้า CMS จากการ Update"
 "Delete Customer",ลบลูกค้า
+"Company Name:",ชื่อบริษัท:
+"Company Email:",อีเมลบริษัท:
+"Company Name",ชื่อบริษัท
+Company:,บริษัท:
 "Phone Number",เบอร์โทรศัพท์
 Contacts,การติดต่อ
 Purchased,สั่งซื้อ
 Date,วันที่
+"Payment Methods",วิธีการชำระเงิน
+"Choose an Option...",เลือกตัวเลือก...
 Options,ตัวเลือก
+"As low as: ","ราคาเริ่มต้น: "
 "An error occurred while processing your form. Please try again later.","เกิดข้อผิดพลาดขณะดำเนินการ กรุณาลองใหม่อีกครั้งในภายหลัง"
 "Write Us",เขียนข้อความ
 "Jot us a note and we’ll get back to you as quickly as possible.","ส่งโน้ตถึงเรา เราจะตอบกลับโดยเร็วที่สุด"
@@ -752,7 +793,7 @@ region,ภูมิภาค
 "Reset Password",รีเซ็ตรหัสผ่าน
 "Force Sign-In",บังคับให้ลงชื่อเข้าใช้
 "New Customer",ลูกค้าใหม่
-"Shopping Cart from %1","รถเข็น %1"
+"Shopping Cart from %1","ตะกร้าสินค้า %1"
 Newsletter,จดหมายข่าว
 "Newsletter Information",ข้อมูลจดหมายข่าว
 "Subscribed to Newsletter",สมัครรับจดหมายข่าว
@@ -830,6 +871,12 @@ Unlock,ปลดล็อก
 Male,ชาย
 Female,หญิง
 "Not Specified",ไม่ระบุ
+"Go back",ย้อนกลับ
+"Please enter your email address below to receive a password reset link.",โปรดป้อนที่อยู่อีเมลของคุณด้านล่างเพื่อรับลิงก์รีเซ็ตรหัสผ่าน
+"Reset My Password",รีเซ็ตรหัสผ่านของฉัน
+"Registered Customers",ลูกค้าที่เคยลงทะเบียนแล้ว
+"If you have an account, sign in with your email address.","หากคุณมีบัญชีอยู่แล้ว ให้ลงชื่อเข้าใช้ด้วยที่อยู่อีเมลของคุณ"
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","การสร้างบัญชีมีประโยชน์มากมาย: ชำระเงินได้เร็วขึ้น เก็บที่อยู่มากกว่าหนึ่งแห่ง ติดตามคำสั่งซื้อและอื่น ๆ"
 "Grand Total",รวมทั้งหมด
 "View Order","ดู รายการสั่งซื้อ"
 "New Address",ที่อยู่ใหม่
@@ -840,9 +887,24 @@ Wishlist,รายการโปรด
 "Copy to Wish List","คัดลอดไปที่ รายการที่ชอบ"
 "Move Selected to Wish List","ย้ายรายการที่เลือกไปที่ รายการที่ชอบ"
 "Copy Selected to Wish List","คัดลอกรายการที่เลือกไปที่ รายการที่สิ่งชอบ"
+"Ship to:",ส่งไปที่:
+"Payment method",วิธีการจ่ายเงิน
+Review,รีวิว
+Reviews,รีวิว
+"Edit item",แก้ไขสินค้า
+Nickname,ชื่อเล่น
+"Be the first to review this product",เป็นคนแรกที่รีวิวสินค้านี้
+"You're reviewing:",คุณกำลังเขียนรีวิว:
+"Submit Review",ส่งรีวิว
 "Review by","รีวิว โดย"
+Coupons,คูปอง
+"Clear Shopping Cart",ล้างตะกร้า
 "Print Order",พิมพ์ใบสั่งซื้อ
+"Search entire store here...",ค้นหาสินค้าจากทั้งร้านที่นี่...
+"Sort by",เรียงตาม
+"Sort by color",เรียงตามสี
 "10 by default. Max - 10000","10 เป็นค่าเริ่มต้น สูงสุด 10000"
+"continue shopping",ช้อปปิ้งต่อ
 "Welcome to %store_name.","ยินดีต้อนรับสู่ %store_name"
 Email:,อีเมล์:
 Password:,รหัสผ่าน:
