@@ -83,6 +83,7 @@ Customers,ลูกค้า
 "You need to choose options for your item.","คุณจำเป็นต้องเลือกตัวเลือก ของสินค้า"
 "Please enter an actual number in the ""Qty"" field.","โปรดระบุตัวเลขในช่อง ""จำนวน"""
 "You cannot upload this file.","คุณไม่สามารถ อัพโหลดไฟล์นี้ได้"
+"The file is empty.",ไฟล์ว่างเปล่า
 "You have not entered a product SKU.","คุณไม่ได้ระบุ รหัสสินค้า"
 No,ไม่
 "Please upload the file in .csv format.","โปรดอัพโหลดไฟล์นามสกุล .csv"
@@ -149,6 +150,7 @@ Yes,ใช่
 Done,เสร็จสิ้น
 Details,รายละเอียด
 "View Details",ดูรายละเอียด
+Report,รายงาน
 Summary,ภาพรวม
 "Start Time",วันที่เริ่มต้น
 Status,สถานะ
@@ -681,10 +683,28 @@ City,เขต/อำเภอ
 "My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
 "My Cart",ตะกร้า
 "For delivery questions.",สำหรับสอบถามเกี่ยวกับการจัดส่ง
+"Customer is already registered",ลูกค้าได้ลงทะเบียนไว้แล้ว
+"Your session has expired",เซสชั่นของคุณหมดอายุแล้ว
+"A letter with further instructions will be sent to your email.",จดหมายพร้อมคำแนะนำเพิ่มเติมจะถูกส่งไปยังอีเมลของคุณ
+"We can't add this item to your shopping cart right now.",เราไม่สามารถเพิ่มสินค้านี้ไปยังตะกร้าสินค้าของคุณได้ในขณะนี้
+"Please select at least one product to add to cart",โปรดเลือกสินค้าอย่างน้อยหนึ่งรายการเพื่อเพิ่มในตะกร้า
+"The quote item isn't found. Verify the item and try again.","ไม่พบสินค้าใบเสนอราคา ตรวจสอบรายการแล้วลองอีกครั้ง"
+"We cannot configure the product.",เราไม่สามารถกำหนดค่าตัวเลือกของสินค้าได้
+"You used coupon code ""%1"".","คุณใช้รหัสคูปอง ""%1"""
+"You canceled the coupon code.",คุณได้ยกเลิกคูปอง
+"We cannot apply the coupon code.",ไม่สามารถใช้รหัสคูปองนี้ได้
+"We can't remove the item.",เราไม่สามารถลบสินค้าได้
+"%1 was updated in your shopping cart.","%1 ได้รับการปรับปรุงในตะกร้าสินค้าของคุณ"
+"We can't update the item right now.",เราไม่สามารถอัปเดตสินค้าได้ในขณะนี้
+"Page Not Found",ไม่พบหน้านี้
+"Something went wrong while saving the page. Please refresh the page and try again.","มีบางอย่างผิดปกติขณะบันทึกหน้า โปรดรีเฟรชหน้าแล้วลองอีกครั้ง"
+"We can't update the shopping cart.",เราไม่สามารถอัปเดตตะกร้าสินค้าได้
 Checkout,ชำระเงิน
 "Page not found.",ไม่พบหน้านี้
 "Payment Method",วิธีการชำระเงิน
 "Payment Page",หน้าการชำระเงิน
+"Incorrect CAPTCHA","CAPTCHA ไม่ถูกต้อง"
+"Please provide CAPTCHA code and try again","โปรดระบุรหัส CAPTCHA แล้วลองอีกครั้ง"
 " item"," รายการ"
 " items"," รายการ"
 Error!,ข้อผิดพลาด!
@@ -755,6 +775,7 @@ View,มุมมอง
 "Delete Customer",ลบลูกค้า
 "Company Name:",ชื่อบริษัท:
 "Company Email:",อีเมลบริษัท:
+"Invalid login or password.",ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
 "Company Name",ชื่อบริษัท
 Company:,บริษัท:
 "Phone Number",เบอร์โทรศัพท์
@@ -892,7 +913,6 @@ Unlock,ปลดล็อก
 "Customer has been unlocked successfully.",ปลดล็อกลูกค้าเรียบร้อยแล้ว
 "Online Customers",ลูกค้าที่ออนไลน์
 "Login successful.",เข้าสู่ระบบสำเร็จ
-"Invalid login or password.",ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
 "The account is locked.",บัญชีของคุณถูกล็อก
 "Please enter a password with at most %1 characters.","กรุณากรอกรหัสผ่านที่มีความยาวไม่เกิน %1 ตัวอักษร"
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","ขั้นต่ำของชนิดของตัวอักขระที่ควรแตกต่างกันในรหัสผ่านคือ %1 ชนิดของตัวอักขระ ได้แก่ ตัวพิมพ์เล็ก ตัวพิมพ์ใหญ่ ตัวเลข อักขระพิเศษ"
@@ -907,6 +927,7 @@ Female,หญิง
 "Default Shipping Address",ที่อยู่หลักสำหรับจัดส่ง
 "Contact Information",ข้อมูลติดต่อ
 "Change Password",เปลี่ยนรหัสผ่าน
+Newsletters,จดหมายข่าว
 "You are subscribed to ""General Subscription"".","คุณสมัครเป็นสมาชิก ""รับข่าวสาร"""
 "Default Addresses",ที่อยู่หลัก
 "Change Billing Address",เปลี่ยนที่อยู่สำหรับออกใบเสร็จ
@@ -958,6 +979,7 @@ Wishlist,รายการโปรด
 "We have saved your subscription.",เราได้บันทึกการสมัครของคุณแล้ว
 "Sign Up for Our Newsletter:",ลงทะเบียนเพื่อรับจดหมายข่าวของเรา:
 "Subscription Options",ตัวเลือกการสมัครสมาชิก
+"Newsletter Subscriptions",การสมัครรับจดหมายข่าว
 "Payment method",วิธีการจ่ายเงิน
 Review,รีวิว
 Reviews,รีวิว
@@ -977,11 +999,13 @@ Coupons,คูปอง
 "You have placed no orders.",คุณไม่มีคำสั่งซื้อ
 "Print Order",พิมพ์ใบสั่งซื้อ
 "Search entire store here...",ค้นหาสินค้าจากทั้งร้านที่นี่...
+"We couldn't logout because of an error.",เราไม่สามารถออกจากระบบเนื่องจากข้อผิดพลาด
 "Sort by",เรียงตาม
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ความยาวขั้นต่ำของฟิลด์นี้จะต้องเท่ากับหรือมากกว่า %1 ตัวอักษร ช่องว่างด้านหน้าและต่อท้ายจะถูกละเว้น"
 "Your password confirmation must match your password.",การยืนยันรหัสผ่านของคุณต้องตรงกับรหัสผ่านของคุณ
 "Your password has expired; please contact your administrator.","รหัสผ่านของคุณหมดอายุ โปรดติดต่อผู้ดูแลระบบของคุณ"
 "Password Reset Confirmation for %name","ยืนยันการรีเซ็ตรหัสผ่านสำหรับ %name"
+"Last login",เข้าสู่ระบบครั้งล่าสุด
 "Sort by color",เรียงตามสี
 "Wish List",รายการสินค้าที่ต้องการ
 "My Wish List",รายการสินค้าที่ฉันต้องการ
