@@ -172,6 +172,7 @@ Enabled,เปิดใช้งาน
 options,ตัวเลือก
 "Select all",เลือกทั้งหมด
 "Deselect all",ไม่เลือกทั้งหมด
+Show,แสดง
 "%s of %s selected","เลือก %s จาก %s"
 "This is a required field.",นี่คือข้อมูลที่จำเป็น
 "B2B Features","B2B คุณสมบัติ"
@@ -543,6 +544,7 @@ Message:,ข้อ​ความ:
 "Add Products to Option ""%1""","เพิ่มสินค้าไปที่ตัวเลือก ""%1"""
 Select...,เลือก...
 Always,ทุกครั้ง
+"Please enter the letters and numbers from the image",โปรดป้อนตัวอักษรและตัวเลขจากภาพ
 "Reload captcha","โหลด captcha ใหม่"
 "Please type the letters and numbers below",กรุณาพิมพ์ตัวอักษรและตัวเลขด้านล่าง
 Root,หลัก
@@ -651,10 +653,15 @@ Category,หมวดหมู่
 "Could not delete Prices",ไม่สามารถลบราคาได้
 "Catalog, Search","หมวดหมู่, ค้นหา"
 "In Stock",มีสินค้า
+"Item Price",ราคาสินค้า
 "Shop By",เลือกซื้อโดย
+"Shopping Options",ตัวเลือกการช็อปปิ้ง
 "Add to Wish List","เพิ่มลงใน รายการสิ่งที่ชอบ"
+"We can't find products matching the selection.",เราไม่พบสินค้าที่ตรงกับการเลือก
 "Add to Compare",เพิ่มลงในการเปรียบเทียบ
 "Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
+"%1 Item","%1 รายการ"
+"%1 Items","%1 รายการ"
 "Sort By",เรียงตาม
 "Set Ascending Direction",เรียงจากน้อยไปหามาก
 "Set Descending Direction",เรียงจากมากไปหาน้อย
@@ -736,7 +743,7 @@ Total:,รวม:
 "Payment Method:",วิธีการชำระเงิน:
 "Date & Time:",วันและเวลา
 "Sign In",เข้าสู่ระบบ
-"Email Address",ที่อยู่อีเมล
+"Email Address",อีเมล
 "Forgot Your Password?",ลืมรหัสผ่าน?
 "My billing and shipping address are the same","ที่อยู่ออกใบเสร็จ และที่อยู่จัดส่งสินค้า เป็นที่อยู่เดียวกัน"
 Update,อัพเดท
@@ -775,11 +782,13 @@ View,มุมมอง
 "Delete Customer",ลบลูกค้า
 "Company Name:",ชื่อบริษัท:
 "Company Email:",อีเมลบริษัท:
+"Email Address:",อีเมล:
 "Invalid login or password.",ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง
 "Company Name",ชื่อบริษัท
 Company:,บริษัท:
 "Phone Number",เบอร์โทรศัพท์
 "You have no other address entries in your address book.","คุณไม่มีรายการที่อยู่อื่น ๆ ในสมุดที่อยู่ของคุณ"
+"T: %1","โทร: %1"
 Contacts,การติดต่อ
 "My Orders",คำสั่งซื้อของฉัน
 Purchased,สั่งซื้อ
@@ -887,6 +896,7 @@ Unlock,ปลดล็อก
 "Date of Birth",วันเกิด
 "Thank you for registering with %1.","ขอบคุณสำหรับการลงทะเบียนกับ %1"
 "Password confirmation doesn't match entered password.",การยืนยันรหัสผ่านไม่ตรงกับรหัสผ่านที่ป้อน
+"Please enter your email.",กรุณากรอกอีเมลของคุณ
 "New Password and Confirm New Password values didn't match.",รหัสผ่านใหม่และค่ายืนยันรหัสผ่านใหม่ไม่ตรงกัน
 "Something went wrong while saving the new password.",เกิดข้อผิดพลาดขณะบันทึกรหัสผ่านใหม่
 "You deleted the address.",คุณลบที่อยู่แล้ว
@@ -938,6 +948,8 @@ Newsletters,จดหมายข่าว
 "Use as my default shipping address",ใช้เป็นที่อยู่หลักสำหรับจัดส่ง
 "Go back",ย้อนกลับ
 "Additional Address Entries",รายการที่อยู่เพิ่มเติม
+"Please enter your email below and we will send you the confirmation link.",โปรดป้อนอีเมลของคุณด้านล่างและเราจะส่งลิงค์ยืนยันให้คุณ
+"Back to Sign In",กลับไปที่หน้าลงชื่อเข้าใช้
 "Change Email",เปลี่ยนอีเมล
 "Change Email and Password",เปลี่ยนอีเมลและรหัสผ่าน
 "Current Password",รหัสผ่านปัจจุบัน
@@ -954,6 +966,7 @@ Newsletters,จดหมายข่าว
 "Sign-in Information",ข้อมูลการลงชื่อเข้าใช้
 "Confirm Password",ยืนยันรหัสผ่าน
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","การสร้างบัญชีมีประโยชน์มากมาย: ชำระเงินได้เร็วขึ้น เก็บที่อยู่มากกว่าหนึ่งแห่ง ติดตามคำสั่งซื้อและอื่น ๆ"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","ลืมรหัสผ่านบัญชีของคุณ? คลิก <a href=""%reset_url""> ที่นี่ </a> เพื่อรีเซ็ต"
 Weak,อ่อนแอ
 Medium,ปานกลาง
 Strong,แข็งแรง
@@ -965,6 +978,9 @@ Strong,แข็งแรง
 "View Order","ดู รายการสั่งซื้อ"
 "You have not purchased any downloadable products yet.",คุณยังไม่ได้ซื้อสินค้าที่ดาวน์โหลดได้
 "New Address",ที่อยู่ใหม่
+"Please enter a valid email address.",กรุณาใส่อีเมลที่ถูกต้อง
+"Show more",แสดงมากขึ้น
+"Invite your friends by entering their email addresses",เชิญเพื่อนของคุณโดยป้อนที่อยู่อีเมลของพวกเขา
 Wishlist,รายการโปรด
 "My Wish Lists",รายการสินค้าที่ฉันต้องการ
 "1 item in wish list","1 สินค้า ในรายการสิ่งที่ชอบ"
@@ -978,6 +994,7 @@ Wishlist,รายการโปรด
 "Show My Orders",แสดงคำสั่งซื้อของฉัน
 "We have saved your subscription.",เราได้บันทึกการสมัครของคุณแล้ว
 "Sign Up for Our Newsletter:",ลงทะเบียนเพื่อรับจดหมายข่าวของเรา:
+"Enter your email address",ใส่อีเมลของคุณ
 "Subscription Options",ตัวเลือกการสมัครสมาชิก
 "Newsletter Subscriptions",การสมัครรับจดหมายข่าว
 "Payment method",วิธีการจ่ายเงิน
@@ -1002,8 +1019,15 @@ Coupons,คูปอง
 "We couldn't logout because of an error.",เราไม่สามารถออกจากระบบเนื่องจากข้อผิดพลาด
 "Sort by",เรียงตาม
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ความยาวขั้นต่ำของฟิลด์นี้จะต้องเท่ากับหรือมากกว่า %1 ตัวอักษร ช่องว่างด้านหน้าและต่อท้ายจะถูกละเว้น"
+"Please enter an email address.",กรุณาใส่อีเมล
 "Your password confirmation must match your password.",การยืนยันรหัสผ่านของคุณต้องตรงกับรหัสผ่านของคุณ
 "Your password has expired; please contact your administrator.","รหัสผ่านของคุณหมดอายุ โปรดติดต่อผู้ดูแลระบบของคุณ"
+"Password Help",ขอความช่วยเหลือด้านรหัสผ่าน
+"Enter your email address.  You will receive an email with a link to reset your password.","ใส่อีเมลของคุณ คุณจะได้รับอีเมลพร้อมลิงค์เพื่อรีเซ็ตรหัสผ่านของคุณ"
+"Email address",อีเมล
+"Retrieve Password",ขอรหัสผ่านใหม่
+"Back to Sign in",กลับไปที่หน้าลงชื่อเข้าใช้
+"Forgot your password?",ลืมรหัสผ่าน?
 "Password Reset Confirmation for %name","ยืนยันการรีเซ็ตรหัสผ่านสำหรับ %name"
 "Last login",เข้าสู่ระบบครั้งล่าสุด
 "Sort by color",เรียงตามสี
@@ -1034,3 +1058,4 @@ Ok,ตกลง
 "Method %s does not exist on jQuery.decorate","เมธอด %s ไม่มีอยู่ใน jQuery.decorate"
 "Please wait...",กรุณารอสักครู่...
 more,อื่นๆ
+"Please enter a valid email address (Ex: johndoe@domain.com).","กรุณาใส่อีเมลที่ถูกต้อง (ตัวอย่าง: johndoe@domain.com)"
