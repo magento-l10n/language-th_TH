@@ -1,25 +1,21 @@
 All,ทั้งหมด
 None,ไม่มี
-"More permissions are needed to delete the ""%1"" item.","ต้องมีสิทธิ์เพิ่มขึ้นในการลบรายการ ""%1"""
 "You need more permissions to apply some of the rule updates.",คุณต้องการสิทธิ์เพิ่มเติมในการอัพเดท
-"More permissions are needed to view this item.",ต้องมีสิทธิ์เพิ่มขึ้นในการที่จะเปิดดูรายการนี้
+"You need more permissions to access website ""%1"".","คุณต้องเพิ่มเติมสิทธิ์การเข้าถึงเว็บไซต์ ""%1""."
+"Role Scopes",ขอบเขตบทบาท
+Custom,กำหนดเอง
+"More permissions are needed to delete the ""%1"" item.","ต้องมีสิทธิ์เพิ่มขึ้นในการลบรายการ ""%1"""
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","ต้องกำหนดเอนทิตีนี้ให้กับมุมมองร้านค้า ตรวจสอบการกำหนดเอนทิตีและลองอีกครั้ง"
-"This item needs to be assigned to a store view.
-                Please select a website for this product in ""Product in Websites"".","ต้องกำหนดรายการนี้ให้กับมุมมองร้านค้า
-                โปรดเลือกเว็บไซต์สำหรับผลิตภัณฑ์นี้ใน ""ผลิตภัณฑ์ในเว็บไซต์"""
 "Orders can only be completed in an active store. Verify the store and try again.","คำสั่งซื้อสามารถทำได้ในร้านค้าที่ใช้งานอยู่เท่านั้น ตรวจสอบร้านค้าและลองอีกครั้ง"
 "This item needs to be assigned to a store view. Assign item and try again.","ต้องกำหนดรายการนี้ให้กับมุมมองร้านค้า กำหนดรายการแล้วลองอีกครั้ง"
 "More permissions are needed to save this item.",ต้องการการอนุญาตเพิ่มเติมเพื่อบันทึกรายการนี้
 "More permissions are needed to delete this item.",ต้องการการอนุญาตเพิ่มเติมเพื่อลบรายการนี้
-"Not allowed to edit the category's design attributes",ไม่อนุญาตให้แก้ไขคุณสมบัติการออกแบบของหมวดหมู่
+"More permissions are needed to view this item.",ต้องมีสิทธิ์เพิ่มขึ้นในการที่จะเปิดดูรายการนี้
 "At least one website or store group needs to be selected. Select and try again.","ต้องเลือกเว็บไซต์หรือกลุ่มร้านค้าอย่างน้อยหนึ่งรายการ เลือกแล้วลองอีกครั้ง"
 "More permissions are needed to set All Scopes to a Role.",จำเป็นต้องมีการอนุญาตเพิ่มเติมเพื่อตั้งค่าขอบเขตทั้งหมดเป็นบทบาท
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","รหัสเว็บไซต์ ""%1"" ไม่ถูกต้อง ยืนยันรหัสเว็บไซต์แล้วลองอีกครั้ง"
-"You need more permissions to access website ""%1"".","คุณต้องเพิ่มเติมสิทธิ์การเข้าถึงเว็บไซต์ ""%1""."
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","รหัสร้านค้า ""%1"" ไม่ถูกต้อง ยืนยันรหัสร้านค้าแล้วลองอีกครั้ง"
 "More permissions are needed to save this setting.",ต้องการการอนุญาตเพิ่มเติมเพื่อบันทึกการตั้งค่านี้
-"Role Scopes",ขอบเขตบทบาท
-Custom,กำหนดเอง
 "Read Details",อ่านรายละเอียด
 "Mark as Read",ทำเครื่องหมายว่าอ่านแล้ว
 "Are you sure?",คุณแน่ใจหรือไม่?
@@ -37,7 +33,6 @@ Notifications,การแจ้งเตือน
 "Total of %1 record(s) have been removed.","ลบทั้งหมด %1 บันทึกแล้ว"
 "We couldn't remove the messages because of an error.",เราไม่สามารถลบข้อความได้เนื่องจากข้อผิดพลาด
 "The message has been removed.",ข้อความได้ถูกลบแล้ว
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","คุณได้ดูและแก้ไขประกาศระบบล่าสุดทั้งหมดแล้ว โปรดรีเฟรชหน้าเว็บเพื่อล้างการแจ้งเตือนการแจ้งเตือน"
 "1 Hour","1 ชั่วโมง"
 "2 Hours","2 ชั่วโมง"
 "6 Hours","6 ชั่วโมง"
@@ -60,7 +55,6 @@ notice,การแจ้งเตือน
 Close,ปิด
 "See All (","ดูทั้งหมด ("
 " unread)"," ยังไม่ได้อ่าน)"
-"System Messages",ข้อความระบบ
 "Show Toolbar",แสดงแถบเครื่องมือ
 "Show List",แสดงรายการ
 "Use HTTPS to Get Feed","ใช้ HTTPS เพื่อรับฟีด"
@@ -70,6 +64,7 @@ Severity,ความรุนแรง
 "Date Added",วันที่เพิ่ม:
 Message,ข้อ​ความ
 Actions,การดำเนินการ
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","คุณได้ดูและแก้ไขประกาศระบบล่าสุดทั้งหมดแล้ว โปรดรีเฟรชหน้าเว็บเพื่อล้างการแจ้งเตือนการแจ้งเตือน"
 "Manage Shopping Cart",จัดการตะกร้าสินค้า
 "Create Order",สร้างคำสั่งซื้อ
 Back,ย้อนกลับ
@@ -106,18 +101,10 @@ Configure,ตั้งค่า
 "You must buy at least %1 of these per purchase.","คุณต้องซื้ออย่างน้อย %1 รายการต่อการซื้อหนึ่งครั้ง"
 "Specify the product's options.",ระบุตัวเลือกของผลิตภัณฑ์
 "Alert me when this item is available.",แจ้งเตือนเมื่อมีสินค้านี้
-"This customer couldn't be found. Verify the customer and try again.","ไม่พบลูกค้ารายนี้ ตรวจสอบลูกค้าและลองอีกครั้ง"
 "Shopping cart management is disabled for this customer.",การจัดการรถเข็นช็อปปิ้งถูกปิดใช้งานสำหรับลูกค้ารายนี้
-"This store couldn't be found. Verify the store and try again.","ไม่พบร้านค้านี้ ตรวจสอบร้านค้าและลองอีกครั้ง"
 Customers,ลูกค้า
 "Shopping Cart",ตะกร้าสินค้า
-"An error occurred. For details, see the error log.","เกิดข้อผิดพลาด. สำหรับรายละเอียด โปรดดูบันทึกข้อผิดพลาด"
 "You do not have access to this.",คุณไม่สามารถเข้าถึงบริการนี้
-"The ordered item needs to be loaded. Load the item and try again.","ต้องโหลดรายการที่สั่งซื้อ โหลดรายการแล้วลองอีกครั้ง"
-"The quote item ID needs to be received. Set the ID and try again.","ต้องได้รับรหัสรายการใบเสนอราคา ตั้งค่า ID แล้วลองอีกครั้ง"
-"The quote item needs to be loaded. Load the item and try again.","ต้องโหลดรายการใบเสนอราคา โหลดรายการแล้วลองอีกครั้ง"
-"The wish list item ID needs to be received. Set the ID and try again.","ต้องได้รับ ID รายการสินค้าที่ต้องการ ตั้งค่า ID แล้วลองอีกครั้ง"
-"The wish list item needs to be loaded. Load the item and try again.","ต้องโหลดรายการสินค้าที่ต้องการ โหลดรายการแล้วลองอีกครั้ง"
 "An error has occurred. See error log for details.","เกิดข้อผิดพลาด. ดูบันทึกข้อผิดพลาดสำหรับรายละเอียด"
 "You cannot configure a product.",ไม่สามารถปรับแต่งสินค้าได้
 "You removed the items.",คุณลบสินค้านี้แล้ว
@@ -148,7 +135,6 @@ Customers,ลูกค้า
 "Yes, for Specified Customer Groups","ใช่ สำหรับกลุ่มลูกค้าที่ระบุ"
 "Yes, for Everyone","ใช่, สำหรับทุกคน"
 No,ไม่
-"The file is corrupt and can't be used.",ไฟล์เสียหายและไม่สามารถใช้งานได้
 "Please upload the file in .csv format.","โปรดอัพโหลดไฟล์นามสกุล .csv"
 "%1 item(s) need your attention.","%1 รายการต้องการความสนใจจากคุณ"
 "Apply Coupon Code",ใช้รหัสคูปอง
@@ -203,6 +189,15 @@ File,ไฟล์
 "The text of the link to the My Account &gt; Order by SKU page","ข้อความของลิงก์ไปยังบัญชีของฉัน &gt; สั่งซื้อโดยเพจ SKU"
 "Load a list of SKUs","โหลดรายการ SKU"
 "Order by SKU Template","เทมเพลต การจัดเรียงโดย รหัสสินค้า"
+"This customer couldn't be found. Verify the customer and try again.","ไม่พบลูกค้ารายนี้ ตรวจสอบลูกค้าและลองอีกครั้ง"
+"This store couldn't be found. Verify the store and try again.","ไม่พบร้านค้านี้ ตรวจสอบร้านค้าและลองอีกครั้ง"
+"An error occurred. For details, see the error log.","เกิดข้อผิดพลาด. สำหรับรายละเอียด โปรดดูบันทึกข้อผิดพลาด"
+"The ordered item needs to be loaded. Load the item and try again.","ต้องโหลดรายการที่สั่งซื้อ โหลดรายการแล้วลองอีกครั้ง"
+"The quote item ID needs to be received. Set the ID and try again.","ต้องได้รับรหัสรายการใบเสนอราคา ตั้งค่า ID แล้วลองอีกครั้ง"
+"The quote item needs to be loaded. Load the item and try again.","ต้องโหลดรายการใบเสนอราคา โหลดรายการแล้วลองอีกครั้ง"
+"The wish list item ID needs to be received. Set the ID and try again.","ต้องได้รับ ID รายการสินค้าที่ต้องการ ตั้งค่า ID แล้วลองอีกครั้ง"
+"The wish list item needs to be loaded. Load the item and try again.","ต้องโหลดรายการสินค้าที่ต้องการ โหลดรายการแล้วลองอีกครั้ง"
+"The file is corrupt and can't be used.",ไฟล์เสียหายและไม่สามารถใช้งานได้
 "Please correct the data sent.",โปรดแก้ไขข้อมูลที่ส่ง
 "Entity type model '%1' is not found","ไม่พบโมเดลประเภทเอนทิตี '%1'"
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","โมเดลประเภทเอนทิตีต้องเป็นอินสแตนซ์ของ \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
@@ -236,23 +231,14 @@ Yes,ใช่
 "Error while checking if topic is synchronous",เกิดข้อผิดพลาดขณะตรวจสอบว่าหัวข้อตรงกันหรือไม่
 "Subscription status",สถานะการสมัครรับข่าวสาร
 "Sorry, there has been an error processing your request. Please try again later.","ขออภัย เกิดข้อผิดพลาดในการดำเนินการตามคำขอของคุณ โปรดลองอีกครั้งในภายหลัง."
-"The time value is using an unsupported format. Enter a supported format and try again.","ค่าเวลาใช้รูปแบบที่ไม่รองรับ ป้อนรูปแบบที่รองรับแล้วลองอีกครั้ง"
 "Cron settings can't be saved","ไม่สามารถบันทึกการตั้งค่า Cron ได้"
 "There was an error save new configuration value.",มีข้อผิดพลาดในการบันทึกค่าการกำหนดค่าใหม่
-"Please select an industry.",กรุณาเลือกอุตสาหกรรม
 "--Please Select--",--กรุณาเลือก--
-"Command ""%1"" was not found.","ไม่พบคำสั่ง ""%1"""
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงหรือข้อมูลที่สามารถแปลงเป็นสตริงแล้วลองอีกครั้ง"
-"The data is invalid. Enter the data as a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงแล้วลองอีกครั้ง"
-"The data is invalid. Use a valid cipher method and try again.","ข้อมูลไม่ถูกต้อง ใช้วิธีการเข้ารหัสที่ถูกต้องแล้วลองอีกครั้ง"
-"Enter the encryption key and try again.",ป้อนคีย์เข้ารหัสแล้วลองอีกครั้ง
-"The ""%1"" source doesn't exist.","ไม่มีแหล่งที่มา ""%1"""
 "These arguments can't be empty ""%1""","อาร์กิวเมนต์เหล่านี้ไม่สามารถเว้นว่างไว้ได้ ""%1"""
 "Cannot find predefined integration user!",ไม่พบผู้ใช้การรวมที่กำหนดไว้ล่วงหน้า!
 "File is not ready yet.",ไฟล์ยังไม่พร้อม
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","URL ฐานของคุณมีการเปลี่ยนแปลง และรายงานของคุณกำลังได้รับการอัปเดต การรายงานขั้นสูงจะพร้อมใช้งานเมื่อการเปลี่ยนแปลงนี้ได้รับการประมวลผลแล้ว โปรดลองอีกครั้งในภายหลัง."
 "Failed to synchronize data to the Magento Business Intelligence service. ","ไม่สามารถซิงโครไนซ์ข้อมูลกับบริการ Magento Business Intelligence "
-"Retry Synchronization",ลองซิงโครไนซ์อีกครั้ง
 TestMessage,ข้อความทดสอบ
 "Apps and Games",แอพและเกม
 "Athletic/Sporting Goods",อุปกรณ์กีฬา/เครื่องกีฬา
@@ -262,16 +248,8 @@ TestMessage,ข้อความทดสอบ
 "Go to Advanced Reporting",ไปที่การรายงานขั้นสูง
 Analytics,การวิเคราะห์
 Configuration,การกำหนดค่า
-"This service provides a dynamic suite of reports with rich insights about your business.
-                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
-                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                terms and conditions</a>.","บริการนี้จัดทำชุดรายงานแบบไดนามิกพร้อมข้อมูลเชิงลึกเกี่ยวกับธุรกิจของคุณ
-                รายงานของคุณสามารถเข้าถึงได้อย่างปลอดภัยบนแดชบอร์ดส่วนบุคคลภายนอกแผงการดูแลระบบโดยคลิกที่
-                ลิงก์ ""ไปที่การรายงานขั้นสูง"" </br> สำหรับข้อมูลเพิ่มเติม โปรดดูที่ <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
-                ข้อกำหนดและเงื่อนไข</a>"
 "Advanced Reporting Service",บริการรายงานขั้นสูง
 "Time of day to send data",เวลาของวันในการส่งข้อมูล
-"Industry Data",ข้อมูลอุตสาหกรรม
 Industry,อุตสาหกรรม
 "In order to personalize your Advanced Reporting experience, please select your industry.","เพื่อปรับแต่งประสบการณ์การรายงานขั้นสูงของคุณ โปรดเลือกอุตสาหกรรมของคุณ"
 "<strong>Get more insights from Magento Business Intelligence</strong>","<strong>รับข้อมูลเชิงลึกเพิ่มเติมจาก Magento Business Intelligence</strong>"
@@ -298,6 +276,14 @@ Industry,อุตสาหกรรม
 "Pharma and Medical Devices",ยาและอุปกรณ์การแพทย์
 "Technology B2B","เทคโนโลยี B2B"
 Other,อื่นๆ
+"The time value is using an unsupported format. Enter a supported format and try again.","ค่าเวลาใช้รูปแบบที่ไม่รองรับ ป้อนรูปแบบที่รองรับแล้วลองอีกครั้ง"
+"Please select an industry.",กรุณาเลือกอุตสาหกรรม
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงหรือข้อมูลที่สามารถแปลงเป็นสตริงแล้วลองอีกครั้ง"
+"The data is invalid. Enter the data as a string and try again.","ข้อมูลไม่ถูกต้อง ป้อนข้อมูลเป็นสตริงแล้วลองอีกครั้ง"
+"The data is invalid. Use a valid cipher method and try again.","ข้อมูลไม่ถูกต้อง ใช้วิธีการเข้ารหัสที่ถูกต้องแล้วลองอีกครั้ง"
+"Enter the encryption key and try again.",ป้อนคีย์เข้ารหัสแล้วลองอีกครั้ง
+"The ""%1"" source doesn't exist.","ไม่มีแหล่งที่มา ""%1"""
+"Retry Synchronization",ลองซิงโครไนซ์อีกครั้ง
 Done,เสร็จสิ้น
 Retry,ลองอีกครั้ง
 "'Action Details - #' .","'รายละเอียดการดำเนินการ - #'"
@@ -333,14 +319,13 @@ Summary,ภาพรวม
 "To retry, select the items and click “Retry”.","หากต้องการลองอีกครั้ง ให้เลือกรายการแล้วคลิก ""ลองใหม่"""
 "Items That Can’t Be Updated.",รายการที่ไม่สามารถอัปเดตได้
 Status,สถานะ
-Action,การกระทำ
 "Meta Information",ข้อมูลเมตา
 Error,ข้อผิดพลาด
 "Dismiss All Completed Tasks",ปิดงานที่เสร็จสมบูรณ์ทั้งหมด
 "Action Details - #","รายละเอียดการดำเนินการ - #"
 "Number of Records Affected",จำนวนบันทึกที่ได้รับผลกระทบ
-"The role wasn't found for the user. Verify the role and try again.","ไม่พบบทบาทสำหรับผู้ใช้ ยืนยันบทบาทแล้วลองอีกครั้ง"
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","เกิดข้อผิดพลาดขณะรวบรวมรายการทรัพยากรที่อนุญาต คุณสามารถหาข้อมูลเพิ่มเติมได้ใน exceptions log."
+"The role wasn't found for the user. Verify the role and try again.","ไม่พบบทบาทสำหรับผู้ใช้ ยืนยันบทบาทแล้วลองอีกครั้ง"
 "You created the order.",คุณสร้างคำสั่งซื้อ
 "Order saving error: %1","ข้อผิดพลาดในการบันทึกคำสั่งซื้อ: %1"
 "Please choose a payment method.",โปรดเลือกวิธีการชำระเงิน
@@ -374,9 +359,7 @@ Enabled,เปิดใช้งาน
 options,ตัวเลือก
 "Select all",เลือกทั้งหมด
 "Deselect all",ไม่เลือกทั้งหมด
-Show,แสดง
 "%s of %s selected","เลือก %s จาก %s"
-"This is a required field.",นี่คือข้อมูลที่จำเป็น
 "B2B Features","B2B คุณสมบัติ"
 "Invalid Form Key. Please refresh the page.","รหัสฟอร์มไม่ถูกต้อง กรุณารีเฟรชหน้า"
 "You entered an invalid Secret Key. Please refresh the page.","คุณป้อนรหัสลับไม่ถูกต้อง กรุณารีเฟรชหน้า"
@@ -537,8 +520,8 @@ Username,ชื่อผู้ใช้
 Password,รหัสผ่าน
 password,รหัสผ่าน
 "Sign in",ลงชื่อเข้าใช้
-"No Data Found",ไม่พบข้อมูล
 "Select Range:",เลือก
+"No Data Found",ไม่พบข้อมูล
 "Last Orders",คำสั่งซื้อล่าสุด
 "Last Search Terms",การค้นหาล่าสุด
 "Top Search Terms",การค้าหาสูงสุด
@@ -675,6 +658,7 @@ Active,ใช้งานอยู่
 Inactive,ไม่ใช้งาน
 "Applies To",นำไปใช้กับ
 "Specify Types",ประเภทที่ระบุ
+Visibility,การมองเห็นได้
 Position,ตำแหน่ง
 "This rule no longer exists.",เงื่อนไขนี้ไม่มีอยู่แล้ว
 "You deleted %1 record(s).","ลบ %1รายการแล้ว"
@@ -687,7 +671,6 @@ Header,ส่วนหัว
 "Right Column",คอลัมน์ด้านขวา
 "Rotation Mode","โหมดการ เปลี่ยนภาพ"
 "Display all instead of rotating","แสดงทั้งหมด แทนการเปลี่ยนทีละภาพ"
-Visibility,การมองเห็นได้
 "All Segments",เซ็กเมนต์ทั้งหมด
 "Customer Segment",เซ็กเมนต์ลูกค้า
 "Sorry, but something went wrong","ขออภัย! มีบางอย่างผิดปกติ"
@@ -730,8 +713,8 @@ Percent,เปอร์เซนต์
 "Multiple Select",เลือกหลายรายการ
 Required,จำเป็น
 "Is Default",เป็นค่าเริ่มต้น
-"Regular Price",ราคาปกติ
 "As low as",ราคาเริ่มต้น
+"Regular Price",ราคาปกติ
 "Go back to product details",กลับไปยังรายละเอียดสินค้า
 "In stock",มีสินค้า
 "Out of stock",สินค้าหมด
@@ -750,7 +733,6 @@ Always,ทุกครั้ง
 "Reload captcha","โหลด captcha ใหม่"
 "Please type the letters and numbers below",กรุณาพิมพ์ตัวอักษรและตัวเลขด้านล่าง
 Root,หลัก
-"Are you sure you want to delete this category?",คุณแน่ใจหรือไม่ว่าต้องการลบหมวดหมู่นี้?
 "Use All Available Attributes",ใช้แอตทริบิวต์ที่มีทั้งหมด
 "Add Subcategory",เพิ่มหมวดหมู่ย่อย
 "Add Root Category",เพิ่มหมวดหมู่หลัก
@@ -864,12 +846,14 @@ Category,หมวดหมู่
 "Items %1-%2 of %3","สินค้า %1-%2 จาก %3"
 "%1 Item","%1 รายการ"
 "%1 Items","%1 รายการ"
+Show,แสดง
 "Sort By",เรียงตาม
 "Set Ascending Direction",เรียงจากน้อยไปหามาก
 "Set Descending Direction",เรียงจากมากไปหาน้อย
 Adding...,กำลังเพิ่ม....
 Added,เพิ่มแล้ว
 "Add to Wishlist",เพิ่มไปยังรายการโปรด
+"Are you sure you want to delete this category?",คุณแน่ใจหรือไม่ว่าต้องการลบหมวดหมู่นี้?
 "Back to Category",กลับไปที่หมวดหมู่
 Priority,ระดับความสำคัญ
 "Scheduled Changes",กำหนดการ
@@ -896,8 +880,6 @@ City,เขต/อำเภอ
 "Your session has expired",เซสชั่นของคุณหมดอายุแล้ว
 "A letter with further instructions will be sent to your email.",จดหมายพร้อมคำแนะนำเพิ่มเติมจะถูกส่งไปยังอีเมลของคุณ
 "We can't add this item to your shopping cart right now.",เราไม่สามารถเพิ่มสินค้านี้ไปยังตะกร้าสินค้าของคุณได้ในขณะนี้
-"Please select at least one product to add to cart",โปรดเลือกสินค้าอย่างน้อยหนึ่งรายการเพื่อเพิ่มในตะกร้า
-"The quote item isn't found. Verify the item and try again.","ไม่พบสินค้าใบเสนอราคา ตรวจสอบรายการแล้วลองอีกครั้ง"
 "We cannot configure the product.",เราไม่สามารถกำหนดค่าตัวเลือกของสินค้าได้
 "You used coupon code ""%1"".","คุณใช้รหัสคูปอง ""%1"""
 "You canceled the coupon code.",คุณได้ยกเลิกคูปอง
@@ -905,15 +887,11 @@ City,เขต/อำเภอ
 "We can't remove the item.",เราไม่สามารถลบสินค้าได้
 "%1 was updated in your shopping cart.","%1 ได้รับการปรับปรุงในตะกร้าสินค้าของคุณ"
 "We can't update the item right now.",เราไม่สามารถอัปเดตสินค้าได้ในขณะนี้
-"Page Not Found",ไม่พบหน้านี้
-"Something went wrong while saving the page. Please refresh the page and try again.","มีบางอย่างผิดปกติขณะบันทึกหน้า โปรดรีเฟรชหน้าแล้วลองอีกครั้ง"
 "We can't update the shopping cart.",เราไม่สามารถอัปเดตตะกร้าสินค้าได้
 Checkout,ชำระเงิน
 "Page not found.",ไม่พบหน้านี้
 "Payment Method",วิธีการชำระเงิน
 "Payment Page",หน้าการชำระเงิน
-"Incorrect CAPTCHA","CAPTCHA ไม่ถูกต้อง"
-"Please provide CAPTCHA code and try again","โปรดระบุรหัส CAPTCHA แล้วลองอีกครั้ง"
 " item"," รายการ"
 " items"," รายการ"
 Error!,ข้อผิดพลาด!
@@ -927,7 +905,6 @@ Error!,ข้อผิดพลาด!
 "Click <a href=""%1"">here</a> to continue shopping.","คลิก <a href=""%1"">ที่นี่</a> เพื่อช้อปปิ้งต่อ"
 "Estimate Tax",ภาษีโดยประมาณ
 "Estimate Shipping and Tax","ค่าจัดส่ง และภาษี โดยประมาณ"
-"You added %1 to your <a href=""%2"">shopping cart</a>.","คุณเพิ่ม %1 ใส่ <a href=""%2"">ตะกร้าสินค้า</a>ของคุณแล้ว"
 "Order #","รายการสั่งซื้อ #"
 "Proceed to Checkout",เริ่มชำระเงิน
 "Your order number is: %1.","รหัสการสั่งซื้อของคุณคือ %1"
@@ -954,22 +931,25 @@ Update,อัพเดท
 "You can create an account after checkout.","คุณสามารถสร้างบัญชีผู้ใช้ได้ หลังจากทำการชำระเงิน"
 "You already have an account with us. Sign in or continue as guest.","คุณมีบัญชีอยู่กับเราแล้ว ลงชื่อเข้าใช้ หรือดำเนินการต่อ"
 Login,เข้าสู่ระบบ
-"Items in Cart",ชิ้นในตะกร้า
-"Item in Cart",ชิ้นในตะกร้า
-"View and Edit Cart",ดูและแก้ไขตะกร้า
 "See Details",ดูรายละเอียด
 "Options Details",รายละเอียดตัวเลือก
 "Cart Subtotal",ผลรวมย่อยของตะกร้า
 "No Payment method available.",ไม่มีวิธีการชำระเงินที่ไม่พร้อมใช้งาน
 "You can track your order status by creating an account.","คุณสามารถติดตามสถานะการสั่งซื้อ โดยการสร้างบัญชี"
-"Create an Account",สร้างบัญชี
 "Ship To:",ส่งไปที่:
-"Shipping Address",ที่อยู่จัดส่ง
-"Shipping Methods",วิธีการจัดส่ง
 "Order Summary",สรุปรายการสั่งซื้อ
+"View and Edit Cart",ดูและแก้ไขตะกร้า
 "Review & Payments",ตรวจสอบและชำระเงิน
 "Save Address",บันทึกที่อยู่
+"Shipping Address",ที่อยู่จัดส่ง
 "We'll send your order confirmation here.",เราจะส่งการยืนยันคำสั่งซื้อของคุณที่นี่
+"Shipping Methods",วิธีการจัดส่ง
+"Item in Cart",ชิ้นในตะกร้า
+"Items in Cart",ชิ้นในตะกร้า
+"Something went wrong while saving the page. Please refresh the page and try again.","มีบางอย่างผิดปกติขณะบันทึกหน้า โปรดรีเฟรชหน้าแล้วลองอีกครั้ง"
+"You added %1 to your <a href=""%2"">shopping cart</a>.","คุณเพิ่ม %1 ใส่ <a href=""%2"">ตะกร้าสินค้า</a>ของคุณแล้ว"
+"Please select at least one product to add to cart",โปรดเลือกสินค้าอย่างน้อยหนึ่งรายการเพื่อเพิ่มในตะกร้า
+"The quote item isn't found. Verify the item and try again.","ไม่พบสินค้าใบเสนอราคา ตรวจสอบรายการแล้วลองอีกครั้ง"
 Identifier,ยืนยัน
 "This block no longer exists.",ไม่มีไฟล์นี้อีกต่อไป
 "Page Title",ชื่อหน้า
@@ -992,8 +972,10 @@ Company:,บริษัท:
 "You have no other address entries in your address book.","คุณไม่มีรายการที่อยู่อื่น ๆ ในสมุดที่อยู่ของคุณ"
 "T: %1","โทร: %1"
 Contacts,การติดต่อ
+"Create an Account",สร้างบัญชี
 "My Orders",คำสั่งซื้อของฉัน
 Purchased,สั่งซื้อ
+"This is a required field.",นี่คือข้อมูลที่จำเป็น
 Date,วันที่
 "Payment Methods",วิธีการชำระเงิน
 "Choose an Option...",เลือกตัวเลือก...
@@ -1043,7 +1025,6 @@ Alphanumeric,ตัวอักษรตัวเลข
 "Address Book",ข้อมูลที่อยู่จัดส่งสินค้า
 "Edit Address",แก้ไขที่อยู่จัดส่งสินค้า
 "Add New Address",เพิ่มที่อยู่ใหม่
-"Customer not logged in",ลูกค้าไม่ได้เข้าสู่ระบบ
 region,ภูมิภาค
 "Save Customer",บันทึกลูกค้า
 "Reset Password",รีเซ็ตรหัสผ่าน
@@ -1064,7 +1045,6 @@ Sent,ส่งแล้ว
 Sending,กำลังส่ง...
 Paused,ถูกหยุดชั่วคราว
 Unknown,ไม่ทราบ
-"Order #","คำสั่งซื้อ #"
 "Order Total",ยอดสั่งซื้อ
 "There are no items in customer's shopping cart.",ไม่มีสินค้าในตะกร้าของลูกค้า
 Confirmed,ยืนยัน
@@ -1144,12 +1124,12 @@ Newsletters,จดหมายข่าว
 "Default Addresses",ที่อยู่หลัก
 "Change Billing Address",เปลี่ยนที่อยู่สำหรับออกใบเสร็จ
 "Change Shipping Address",เปลี่ยนที่อยู่สำหรับจัดส่ง
+"Additional Address Entries",รายการที่อยู่เพิ่มเติม
 "It's a default billing address.","ที่อยู่นี้ เป็นที่อยู่หลักสำหรับออกใบเสร็จ"
 "Use as my default billing address",ใช้เป็นที่อยู่หลักสำหรับออกใบเสร็จ
 "It's a default shipping address.","ที่อยู่นี้ เป็นที่อยู่หลักสำหรับจัดส่ง"
 "Use as my default shipping address",ใช้เป็นที่อยู่หลักสำหรับจัดส่ง
 "Go back",ย้อนกลับ
-"Additional Address Entries",รายการที่อยู่เพิ่มเติม
 "Please enter your email below and we will send you the confirmation link.",โปรดป้อนอีเมลของคุณด้านล่างและเราจะส่งลิงค์ยืนยันให้คุณ
 "Back to Sign In",กลับไปที่หน้าลงชื่อเข้าใช้
 "Change Email",เปลี่ยนอีเมล
@@ -1173,6 +1153,7 @@ Weak,อ่อนแอ
 Medium,ปานกลาง
 Strong,แข็งแรง
 "Very Strong",แข็งแรงมาก
+"Customer not logged in",ลูกค้าไม่ได้เข้าสู่ระบบ
 "Provide the current ""password"" to change ""email"".","ระบุ ""รหัสผ่าน"" ปัจจุบันเพื่อเปลี่ยน ""อีเมล"""
 "Grand Total",รวมทั้งหมด
 "My Downloadable Products",สินค้าที่ดาวน์โหลดได้ของฉัน
@@ -1194,11 +1175,11 @@ Wishlist,รายการโปรด
 "My Wish Lists Link",ลิงค์รายการสินค้าที่ฉันต้องการ
 "Ship to:",ส่งไปที่:
 "Show My Orders",แสดงคำสั่งซื้อของฉัน
-"We have saved your subscription.",เราได้บันทึกการสมัครของคุณแล้ว
 "Sign Up for Our Newsletter:",ลงทะเบียนเพื่อรับจดหมายข่าวของเรา:
 "Enter your email address",ใส่อีเมลของคุณ
 "Subscription Options",ตัวเลือกการสมัครสมาชิก
 "Newsletter Subscriptions",การสมัครรับจดหมายข่าว
+"We have saved your subscription.",เราได้บันทึกการสมัครของคุณแล้ว
 "Payment method",วิธีการจ่ายเงิน
 Review,รีวิว
 Reviews,รีวิว
@@ -1219,7 +1200,6 @@ Coupons,คูปอง
 "Print Order",พิมพ์ใบสั่งซื้อ
 "Search entire store here...",ค้นหาสินค้าจากทั้งร้านที่นี่...
 "We couldn't logout because of an error.",เราไม่สามารถออกจากระบบเนื่องจากข้อผิดพลาด
-"Sort by",เรียงตาม
 "Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","ความยาวขั้นต่ำของฟิลด์นี้จะต้องเท่ากับหรือมากกว่า %1 ตัวอักษร ช่องว่างด้านหน้าและต่อท้ายจะถูกละเว้น"
 "Please enter an email address.",กรุณาใส่อีเมล
 "Your password confirmation must match your password.",การยืนยันรหัสผ่านของคุณต้องตรงกับรหัสผ่านของคุณ
@@ -1241,8 +1221,8 @@ Coupons,คูปอง
 "This product(s) is out of stock.",สินค้านี้หมดสต็อก
 "View Product",ดูสินค้า
 "You have no items in your wish list.",คุณยังไม่มีสินค้าในรายการสินค้าที่คุณต้องการ
-"10 by default. Max - 10000","10 เป็นค่าเริ่มต้น สูงสุด 10000"
 "My Wish List Link",ลิงค์รายการสินค้าที่ฉันต้องการ
+"10 by default. Max - 10000","10 เป็นค่าเริ่มต้น สูงสุด 10000"
 "continue shopping",ช้อปปิ้งต่อ
 "Now Shopping by",กำลังช้อปปิ้งโดย
 "Remove This Item",ลบสินค้าชิ้นนี้
@@ -1286,9 +1266,6 @@ Password:,รหัสผ่าน:
 "Backup options",ตัวเลือกการสำรองข้อมูล
 Warning,คำเตือน
 Ok,ตกลง
-"Insert Variable",แทรกตัวแปร
-"Insert Widget","แทรก วิดเจ็ต"
-"The widget %1 is no longer available. Select a different widget.","วิดเจ็ต %1 ไม่สามารถใช้งานได้อีกต่อไป เลือกวิดเจ็ตอื่น"
 "No records found.",ไม่พบข้อมูล
 "Recent items",รายการล่าสุด
 "Show all...",แสดงทั้งหมด...
@@ -1297,7 +1274,6 @@ Ok,ตกลง
 "Please specify Url.","กรุณาระบุ Url"
 "Method %s does not exist on jQuery.decorate","เมธอด %s ไม่มีอยู่ใน jQuery.decorate"
 "Please wait...",กรุณารอสักครู่...
-"All %1","ทั้งหมด %1"
 more,อื่นๆ
 Translate,แปลแล้ว
 "Please enter {0} words or less.","โปรดป้อน {0} คำหรือน้อยกว่า"
@@ -1307,7 +1283,6 @@ Translate,แปลแล้ว
 "Letters, numbers, spaces or underscores only please","ตัวอักษร ตัวเลข ช่องว่าง หรือขีดล่างเท่านั้น"
 "Letters only please",ใส่ตัวอักษรได้เท่านั้น
 "No white space please",ห้ามเว้นวรรค
-"No marginal white space please",ได้โปรดอย่าเว้นวรรค
 "Your ZIP-code must be in the range 902xx-xxxx to 905-xx-xxxx","รหัสไปรษณีย์ของคุณต้องอยู่ในช่วง 902xx-xxxx ถึง 905-xx-xxxx"
 "A positive or negative non-decimal number please",กรุณาใส่ตัวเลขที่ไม่ใช่ทศนิยมบวกหรือลบ
 "The specified vehicle identification number (VIN) is invalid.","หมายเลขประจำตัวรถที่ระบุ (VIN) ไม่ถูกต้อง"
@@ -1345,10 +1320,8 @@ Translate,แปลแล้ว
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","โปรดป้อนความยาว CSS ที่ถูกต้อง (เช่น 100px, 77pt, 20em, .5ex หรือ 50%)"
 "Please enter a valid number in this field.",โปรดป้อนตัวเลขที่ถูกต้องในฟิลด์นี้
 "The value is not within the specified range.",ค่าไม่อยู่ในช่วงที่ระบุ
-"Forbidden extensions has been used. Avoid usage of ","มีการใช้ส่วนขยายต้องห้าม หลีกเลี่ยงการใช้ "
 "Please use letters only (a-z or A-Z) in this field.","โปรดใช้ตัวอักษรเท่านั้น (a-z หรือ A-Z) ในช่องนี้"
 "Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.","โปรดใช้เฉพาะตัวอักษร (a-z หรือ A-Z) หรือตัวเลข (0-9) ในช่องนี้ ไม่อนุญาตให้เว้นวรรคหรืออักขระอื่น ๆ"
-"First character must be letter.",อักขระตัวแรกต้องเป็นตัวอักษร
 "Please enter a valid date.",โปรดป้อนวันที่ที่ถูกต้อง
 "Make sure the To Date is later than or the same as the From Date.","ตรวจสอบให้แน่ใจว่า To Date นั้นช้ากว่าหรือเหมือนกับวันที่เริ่มต้น"
 "Please make sure your passwords match.",โปรดตรวจสอบให้แน่ใจว่ารหัสผ่านของคุณตรงกัน
@@ -1376,11 +1349,6 @@ Translate,แปลแล้ว
 "Please enter a valid number.",โปรดป้อนหมายเลขที่ถูกต้อง
 "This is required field",ช่องนี้จำเป็นต้องกรอก
 "Admin is a required field in each row.",ผู้ดูแลระบบเป็นฟิลด์บังคับในแต่ละแถว
-"Please enter a quantity greater than 0.","โปรดป้อนจำนวนที่มากกว่า 0"
-"The fewest you may purchase is %1.","จำนวนน้อยที่สุดที่คุณสามารถซื้อได้คือ %1"
-"The maximum you may purchase is %1.","สูงสุดที่คุณสามารถซื้อได้คือ %1"
-"You can buy this product only in quantities of %1 at a time.","คุณสามารถซื้อผลิตภัณฑ์นี้ในปริมาณ %1 ต่อครั้งเท่านั้น"
-"The password can't be the same as the email address. Create a new password and try again.","รหัสผ่านต้องไม่เหมือนกับที่อยู่อีเมล สร้างรหัสผ่านใหม่และลองอีกครั้ง"
 "Please fix this field.",โปรดแก้ไขฟิลด์นี้
 "Please enter a valid URL.","โปรดป้อน URL ที่ถูกต้อง"
 "Please enter a valid date (ISO).","โปรดป้อนวันที่ที่ถูกต้อง (ISO)"
@@ -1399,3 +1367,14 @@ Translate,แปลแล้ว
 "Please enter a valid year (1900-%1).","โปรดป้อนปี ค.ศ. ที่ถูกต้อง (1900-%1)"
 "Please enter a valid day (1-%1).","โปรดป้อนวันที่ถูกต้อง (1-%1)"
 "Please enter a date from the past.",โปรดป้อนวันที่จากอดีต
+"Please enter a quantity greater than 0.","โปรดป้อนจำนวนที่มากกว่า 0"
+"The fewest you may purchase is %1.","จำนวนน้อยที่สุดที่คุณสามารถซื้อได้คือ %1"
+"The maximum you may purchase is %1.","สูงสุดที่คุณสามารถซื้อได้คือ %1"
+"You can buy this product only in quantities of %1 at a time.","คุณสามารถซื้อผลิตภัณฑ์นี้ในปริมาณ %1 ต่อครั้งเท่านั้น"
+"Forbidden extensions has been used. Avoid usage of ","มีการใช้ส่วนขยายต้องห้าม หลีกเลี่ยงการใช้ "
+"No marginal white space please",ได้โปรดอย่าเว้นวรรค
+"Insert Variable",แทรกตัวแปร
+"Insert Widget","แทรก วิดเจ็ต"
+"The widget %1 is no longer available. Select a different widget.","วิดเจ็ต %1 ไม่สามารถใช้งานได้อีกต่อไป เลือกวิดเจ็ตอื่น"
+"First character must be letter.",อักขระตัวแรกต้องเป็นตัวอักษร
+"The password can't be the same as the email address. Create a new password and try again.","รหัสผ่านต้องไม่เหมือนกับที่อยู่อีเมล สร้างรหัสผ่านใหม่และลองอีกครั้ง"
