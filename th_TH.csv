@@ -871,6 +871,7 @@ Conditions,เงื่อนไข
 "Sort Products By",เรียงสินค้าตาม
 "New Theme","ธีมใหม่ "
 "Currently Active",กำลังใช้งานอยู่
+"Invalid method: %1","วิธีการไม่ถูกต้อง: %1"
 City,เขต/อำเภอ
 "My Cart (1 item)","ตะกร้า (1 ชิ้น)"
 "My Cart (%1 items)","ตะกร้า (%1 ชิ้น)"
@@ -880,6 +881,7 @@ City,เขต/อำเภอ
 "Your session has expired",เซสชั่นของคุณหมดอายุแล้ว
 "A letter with further instructions will be sent to your email.",จดหมายพร้อมคำแนะนำเพิ่มเติมจะถูกส่งไปยังอีเมลของคุณ
 "We can't add this item to your shopping cart right now.",เราไม่สามารถเพิ่มสินค้านี้ไปยังตะกร้าสินค้าของคุณได้ในขณะนี้
+"We can't find the quote item.",เราไม่พบรายการใบเสนอราคา
 "We cannot configure the product.",เราไม่สามารถกำหนดค่าตัวเลือกของสินค้าได้
 "You used coupon code ""%1"".","คุณใช้รหัสคูปอง ""%1"""
 "You canceled the coupon code.",คุณได้ยกเลิกคูปอง
@@ -888,10 +890,19 @@ City,เขต/อำเภอ
 "%1 was updated in your shopping cart.","%1 ได้รับการปรับปรุงในตะกร้าสินค้าของคุณ"
 "We can't update the item right now.",เราไม่สามารถอัปเดตสินค้าได้ในขณะนี้
 "We can't update the shopping cart.",เราไม่สามารถอัปเดตตะกร้าสินค้าได้
+"One-page checkout is turned off.",การชำระเงินแบบหน้าเดียวปิดอยู่
+"Guest checkout is disabled.",การชำระเงินของแขกถูกปิดใช้งาน
 Checkout,ชำระเงิน
 "Page not found.",ไม่พบหน้านี้
+"Please agree to all the terms and conditions before placing the order.",โปรดยอมรับข้อกำหนดและเงื่อนไขทั้งหมดก่อนทำการสั่งซื้อ
+"Something went wrong while processing your order. Please try again later.","เกิดข้อผิดพลาดขณะประมวลผลคำสั่งซื้อของคุณ กรุณาลองใหม่อีกครั้งในภายหลัง."
 "Payment Method",วิธีการชำระเงิน
 "Payment Page",หน้าการชำระเงิน
+"We can't find the product.",เราไม่พบสินค้า
+"We found an invalid request for adding product to quote.",เราพบคำขอที่ไม่ถูกต้องสำหรับการเพิ่มผลิตภัณฑ์ที่จะเสนอราคา
+"The product does not exist.",ไม่มีสินค้านี้
+"We don't have some of the products you want.",เราไม่มีสินค้าบางรายการที่คุณต้องการ
+"We don't have as many of some products as you want.",เรามีสินค้าไม่ครบตามที่คุณต้องการ
 " item"," รายการ"
 " items"," รายการ"
 Error!,ข้อผิดพลาด!
@@ -1160,6 +1171,17 @@ Strong,แข็งแรง
 "Go to <a href=""%1"">My Downloadable Products</a>","ไปที่ <a href=""%1"">สินค้าที่ดาวน์โหลดได้ของฉัน</a>"
 "View Order","ดู รายการสั่งซื้อ"
 "You have not purchased any downloadable products yet.",คุณยังไม่ได้ซื้อสินค้าที่ดาวน์โหลดได้
+"Add New Template",เพิ่มเทมเพลตใหม่
+"Transactional Emails",อีเมลธุรกรรม
+"Delete Template",ลบเทมเพลต
+"Convert to Plain Text",แปลงเป็นข้อความธรรมดา
+"Return Html Version","กลับเป็นเวอร์ชัน Html"
+"Preview Template",ดูตัวอย่างเทมเพลต
+"Save Template",บันทึกเทมเพลต
+"Load Template",โหลดเทมเพลต
+"Edit Email Template",แก้ไขเทมเพลตอีเมล
+"New Email Template",สร้างเทมเพลตอีเมลใหม่
+"Default Config",ค่าเริ่มต้น
 "New Address",ที่อยู่ใหม่
 "Please enter a valid email address.",กรุณาใส่อีเมลที่ถูกต้อง
 "Show more",แสดงมากขึ้น
