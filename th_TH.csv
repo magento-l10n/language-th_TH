@@ -855,6 +855,11 @@ Added,เพิ่มแล้ว
 "Add to Wishlist",เพิ่มไปยังรายการโปรด
 "Are you sure you want to delete this category?",คุณแน่ใจหรือไม่ว่าต้องการลบหมวดหมู่นี้?
 "Back to Category",กลับไปที่หมวดหมู่
+"There are no product types available for export.",ไม่มีประเภทผลิตภัณฑ์ที่สามารถส่งออกได้
+"Category ""%1"" has not been created.","หมวดหมู่ ""%1"" ไม่ได้ถูกสร้าง"
+"File directory '%1' is not readable.","ไดเร็กทอรีไฟล์ '%1' ไม่สามารถอ่านได้"
+"File directory '%1' is not writable.","ไดเร็กทอรีไฟล์ '%1' ไม่สามารถเขียนได้"
+"Please enter a value for title.",โปรดป้อนค่าสำหรับชื่อเรื่อง
 Priority,ระดับความสำคัญ
 "Scheduled Changes",กำหนดการ
 "Update Information",แก้ไขข้อมูล
